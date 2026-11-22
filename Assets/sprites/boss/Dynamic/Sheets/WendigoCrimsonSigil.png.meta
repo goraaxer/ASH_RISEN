@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: b0f2b34e769edbc42aec64ece595ebd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5637310949086988356
+    second: WendigoCrimsonSigil_0
+  - first:
+      213: 1456427136798795717
+    second: WendigoCrimsonSigil_1
+  - first:
+      213: -8050147843021606735
+    second: WendigoCrimsonSigil_2
+  - first:
+      213: -3196110838806593476
+    second: WendigoCrimsonSigil_3
+  - first:
+      213: 3204192711923425847
+    second: WendigoCrimsonSigil_4
+  - first:
+      213: -9189596603234774889
+    second: WendigoCrimsonSigil_5
+  - first:
+      213: 6822611843961804743
+    second: WendigoCrimsonSigil_6
+  - first:
+      213: -7531156485624282679
+    second: WendigoCrimsonSigil_7
+  - first:
+      213: 1756799535710038651
+    second: WendigoCrimsonSigil_8
+  - first:
+      213: 1887209092216063145
+    second: WendigoCrimsonSigil_9
+  - first:
+      213: -5515627931432305411
+    second: WendigoCrimsonSigil_00
+  - first:
+      213: 7008897795948283795
+    second: WendigoCrimsonSigil_01
+  - first:
+      213: -7166997197131516832
+    second: WendigoCrimsonSigil_02
+  - first:
+      213: -3684899664495381346
+    second: WendigoCrimsonSigil_03
+  - first:
+      213: 1363747976502266875
+    second: WendigoCrimsonSigil_04
+  - first:
+      213: -6351175893572934353
+    second: WendigoCrimsonSigil_05
+  - first:
+      213: 8211882029469522343
+    second: WendigoCrimsonSigil_06
+  - first:
+      213: 5232546124766954676
+    second: WendigoCrimsonSigil_07
+  - first:
+      213: 4755192950387798775
+    second: WendigoCrimsonSigil_08
+  - first:
+      213: -6236179648527559245
+    second: WendigoCrimsonSigil_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc31c19e9d8473b0800000000000000
+      internalID: -5515627931432305411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970482296b944160800000000000000
+      internalID: 7008897795948283795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06471c68506b98c90800000000000000
+      internalID: -7166997197131516832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94fbc0574b9cdcc0800000000000000
+      internalID: -3684899664495381346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb43962f810de210800000000000000
+      internalID: 1363747976502266875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25af8dbc271cd7a0800000000000000
+      internalID: -6351175893572934353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9d1f7823776f170800000000000000
+      internalID: 8211882029469522343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c49d2afcbd9840800000000000000
+      internalID: 5232546124766954676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f27e465bc6ddf140800000000000000
+      internalID: 4755192950387798775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoCrimsonSigil_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59efd76a3a479a0800000000000000
+      internalID: -6236179648527559245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WendigoCrimsonSigil_0: -5637310949086988356
+      WendigoCrimsonSigil_00: -5515627931432305411
+      WendigoCrimsonSigil_01: 7008897795948283795
+      WendigoCrimsonSigil_02: -7166997197131516832
+      WendigoCrimsonSigil_03: -3684899664495381346
+      WendigoCrimsonSigil_04: 1363747976502266875
+      WendigoCrimsonSigil_05: -6351175893572934353
+      WendigoCrimsonSigil_06: 8211882029469522343
+      WendigoCrimsonSigil_07: 5232546124766954676
+      WendigoCrimsonSigil_08: 4755192950387798775
+      WendigoCrimsonSigil_09: -6236179648527559245
+      WendigoCrimsonSigil_1: 1456427136798795717
+      WendigoCrimsonSigil_2: -8050147843021606735
+      WendigoCrimsonSigil_3: -3196110838806593476
+      WendigoCrimsonSigil_4: 3204192711923425847
+      WendigoCrimsonSigil_5: -9189596603234774889
+      WendigoCrimsonSigil_6: 6822611843961804743
+      WendigoCrimsonSigil_7: -7531156485624282679
+      WendigoCrimsonSigil_8: 1756799535710038651
+      WendigoCrimsonSigil_9: 1887209092216063145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

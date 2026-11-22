@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: e7bb0c2de6b1b7646a4c5bd1052b82e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1047232082864323426
+    second: VillageFacadesSource_0
+  - first:
+      213: 2653990534603470117
+    second: VillageFacadesSource_1
+  - first:
+      213: 7954944341515070239
+    second: VillageFacadesSource_2
+  - first:
+      213: -1160830168818841161
+    second: VillageFacadesSource_3
+  - first:
+      213: -6487197795989561912
+    second: VillageFacadesSource_4
+  - first:
+      213: 6894404932903714238
+    second: VillageFacadesSource_5
+  - first:
+      213: -554493859685769527
+    second: VillageFacadesSource_6
+  - first:
+      213: 5783423217155684165
+    second: VillageFacadesSource_7
+  - first:
+      213: 6032355608096184487
+    second: VillageFacadesSource_8
+  - first:
+      213: 3056894087085502717
+    second: VillageFacadesSource_9
+  - first:
+      213: 3207774999405234492
+    second: VillageFacadesSource_10
+  - first:
+      213: 567303532432765954
+    second: VillageFacadesSource_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillageFacadesSource_0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 648
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ca7718fb7771f0800000000000000
+      internalID: -1047232082864323426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 381
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f94c645ed4d420800000000000000
+      internalID: 2653990534603470117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_2
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 639
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b62044bb3a56e60800000000000000
+      internalID: 7954944341515070239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_3
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 0
+        width: 565
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90ffe9c17e3efe0800000000000000
+      internalID: -1160830168818841161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 486
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd5856a9f7d8f5a0800000000000000
+      internalID: -6487197795989561912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 580
+        width: 147
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3d6322c8ddaf50800000000000000
+      internalID: 6894404932903714238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 602
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce5b4fb5ca0e48f0800000000000000
+      internalID: -554493859685769527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 443
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547bf4c26c8d24050800000000000000
+      internalID: 5783423217155684165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 453
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8986bf67b37b350800000000000000
+      internalID: 6032355608096184487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 449
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df039b0e9f44c6a20800000000000000
+      internalID: 3056894087085502717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 435
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c398deecd5e448c20800000000000000
+      internalID: 3207774999405234492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageFacadesSource_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 417
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ba7a9e877fd700800000000000000
+      internalID: 567303532432765954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VillageFacadesSource_0: -1047232082864323426
+      VillageFacadesSource_1: 2653990534603470117
+      VillageFacadesSource_10: 3207774999405234492
+      VillageFacadesSource_11: 567303532432765954
+      VillageFacadesSource_2: 7954944341515070239
+      VillageFacadesSource_3: -1160830168818841161
+      VillageFacadesSource_4: -6487197795989561912
+      VillageFacadesSource_5: 6894404932903714238
+      VillageFacadesSource_6: -554493859685769527
+      VillageFacadesSource_7: 5783423217155684165
+      VillageFacadesSource_8: 6032355608096184487
+      VillageFacadesSource_9: 3056894087085502717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

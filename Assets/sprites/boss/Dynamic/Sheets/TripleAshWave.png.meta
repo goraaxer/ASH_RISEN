@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 27a34bcfdae555e46aa9beeac3012cd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -971211669692449663
+    second: TripleAshWave_0
+  - first:
+      213: 8302204213944906009
+    second: TripleAshWave_1
+  - first:
+      213: -2979333785704510561
+    second: TripleAshWave_2
+  - first:
+      213: 1959116050087110181
+    second: TripleAshWave_3
+  - first:
+      213: -12746357297558594
+    second: TripleAshWave_4
+  - first:
+      213: 854976573372245637
+    second: TripleAshWave_5
+  - first:
+      213: 454690154530113649
+    second: TripleAshWave_6
+  - first:
+      213: -4738029610986090505
+    second: TripleAshWave_7
+  - first:
+      213: -5992545735547967704
+    second: TripleAshWave_8
+  - first:
+      213: -3515164032076500137
+    second: TripleAshWave_9
+  - first:
+      213: -6005242474279250862
+    second: TripleAshWave_10
+  - first:
+      213: -3324634388578746384
+    second: TripleAshWave_11
+  - first:
+      213: -813254222112196868
+    second: TripleAshWave_12
+  - first:
+      213: 4365142142201866629
+    second: TripleAshWave_13
+  - first:
+      213: -5308525612718256637
+    second: TripleAshWave_14
+  - first:
+      213: -4735401704184322273
+    second: TripleAshWave_15
+  - first:
+      213: 5241819211043984727
+    second: TripleAshWave_16
+  - first:
+      213: 7506595351242342884
+    second: TripleAshWave_17
+  - first:
+      213: 10578238715420919
+    second: TripleAshWave_18
+  - first:
+      213: -8623129987028901055
+    second: TripleAshWave_19
+  - first:
+      213: -30320619080617087
+    second: TripleAshWave_20
+  - first:
+      213: -3053146667211931902
+    second: TripleAshWave_21
+  - first:
+      213: -3408593488683476519
+    second: TripleAshWave_22
+  - first:
+      213: 2534366414811680474
+    second: TripleAshWave_23
+  - first:
+      213: -3227699968548358877
+    second: TripleAshWave_24
+  - first:
+      213: -7356369948037416368
+    second: TripleAshWave_25
+  - first:
+      213: -8896287039948990787
+    second: TripleAshWave_26
+  - first:
+      213: 2138159265091334265
+    second: TripleAshWave_27
+  - first:
+      213: 9005488947850106227
+    second: TripleAshWave_28
+  - first:
+      213: -3619501201075841602
+    second: TripleAshWave_29
+  - first:
+      213: -4362785427866690338
+    second: TripleAshWave_30
+  - first:
+      213: 5390451904580208000
+    second: TripleAshWave_31
+  - first:
+      213: 1840928547395819318
+    second: TripleAshWave_32
+  - first:
+      213: 1271727811465512243
+    second: TripleAshWave_33
+  - first:
+      213: -1792506897026944631
+    second: TripleAshWave_34
+  - first:
+      213: -6403299354618841938
+    second: TripleAshWave_35
+  - first:
+      213: 7787074634654135254
+    second: TripleAshWave_36
+  - first:
+      213: 8521215992451625906
+    second: TripleAshWave_00
+  - first:
+      213: -7231001748908175160
+    second: TripleAshWave_01
+  - first:
+      213: 8079931417375924441
+    second: TripleAshWave_02
+  - first:
+      213: 48008565483189967
+    second: TripleAshWave_03
+  - first:
+      213: -1035008109746830911
+    second: TripleAshWave_04
+  - first:
+      213: 4957404068121092923
+    second: TripleAshWave_05
+  - first:
+      213: -407620830126501870
+    second: TripleAshWave_06
+  - first:
+      213: -7990865529308558920
+    second: TripleAshWave_07
+  - first:
+      213: -7791418474959694717
+    second: TripleAshWave_08
+  - first:
+      213: -8387031139599781749
+    second: TripleAshWave_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TripleAshWave_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3f47c3cc0714670800000000000000
+      internalID: 8521215992451625906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0991a883256ab90800000000000000
+      internalID: -7231001748908175160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0e53690dea12070800000000000000
+      internalID: 8079931417375924441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc63dc3398f8aa000800000000000000
+      internalID: 48008565483189967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c144ee9b99e2a1f0800000000000000
+      internalID: -1035008109746830911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b332f680cbc3cc440800000000000000
+      internalID: 4957404068121092923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109241c307d75af0800000000000000
+      internalID: -407620830126501870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b946a5732eba1190800000000000000
+      internalID: -7990865529308558920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3849c9f7d225fd390800000000000000
+      internalID: -7791418474959694717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80f30c6d974b9b80800000000000000
+      internalID: -8387031139599781749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2545f7a69c719aca0800000000000000
+      internalID: -6005242474279250862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff37b463a68cd1d0800000000000000
+      internalID: -3324634388578746384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf67ae2089db6b4f0800000000000000
+      internalID: -813254222112196868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589a70c96a9149c30800000000000000
+      internalID: 4365142142201866629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e8ddcb4145456b0800000000000000
+      internalID: -5308525612718256637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleAshWave_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1760514d39784eb0800000000000000
+      internalID: -4735401704184322273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TripleAshWave_0: -971211669692449663
+      TripleAshWave_00: 8521215992451625906
+      TripleAshWave_01: -7231001748908175160
+      TripleAshWave_02: 8079931417375924441
+      TripleAshWave_03: 48008565483189967
+      TripleAshWave_04: -1035008109746830911
+      TripleAshWave_05: 4957404068121092923
+      TripleAshWave_06: -407620830126501870
+      TripleAshWave_07: -7990865529308558920
+      TripleAshWave_08: -7791418474959694717
+      TripleAshWave_09: -8387031139599781749
+      TripleAshWave_1: 8302204213944906009
+      TripleAshWave_10: -6005242474279250862
+      TripleAshWave_11: -3324634388578746384
+      TripleAshWave_12: -813254222112196868
+      TripleAshWave_13: 4365142142201866629
+      TripleAshWave_14: -5308525612718256637
+      TripleAshWave_15: -4735401704184322273
+      TripleAshWave_16: 5241819211043984727
+      TripleAshWave_17: 7506595351242342884
+      TripleAshWave_18: 10578238715420919
+      TripleAshWave_19: -8623129987028901055
+      TripleAshWave_2: -2979333785704510561
+      TripleAshWave_20: -30320619080617087
+      TripleAshWave_21: -3053146667211931902
+      TripleAshWave_22: -3408593488683476519
+      TripleAshWave_23: 2534366414811680474
+      TripleAshWave_24: -3227699968548358877
+      TripleAshWave_25: -7356369948037416368
+      TripleAshWave_26: -8896287039948990787
+      TripleAshWave_27: 2138159265091334265
+      TripleAshWave_28: 9005488947850106227
+      TripleAshWave_29: -3619501201075841602
+      TripleAshWave_3: 1959116050087110181
+      TripleAshWave_30: -4362785427866690338
+      TripleAshWave_31: 5390451904580208000
+      TripleAshWave_32: 1840928547395819318
+      TripleAshWave_33: 1271727811465512243
+      TripleAshWave_34: -1792506897026944631
+      TripleAshWave_35: -6403299354618841938
+      TripleAshWave_36: 7787074634654135254
+      TripleAshWave_4: -12746357297558594
+      TripleAshWave_5: 854976573372245637
+      TripleAshWave_6: 454690154530113649
+      TripleAshWave_7: -4738029610986090505
+      TripleAshWave_8: -5992545735547967704
+      TripleAshWave_9: -3515164032076500137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

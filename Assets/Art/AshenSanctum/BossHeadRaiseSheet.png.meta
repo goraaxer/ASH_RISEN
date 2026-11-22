@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 8928483f527cbf5478b8a6003cb78c0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3152706840926162967
+    second: BossHeadRaiseSheet_0
+  - first:
+      213: 5450548894864030508
+    second: BossHeadRaiseSheet_1
+  - first:
+      213: 1871138372020580830
+    second: BossHeadRaiseSheet_2
+  - first:
+      213: 9150275960771373839
+    second: BossHeadRaiseSheet_3
+  - first:
+      213: -6736177844446508980
+    second: BossHeadRaiseSheet_4
+  - first:
+      213: -3582048083288695127
+    second: BossHeadRaiseSheet_5
+  - first:
+      213: 7264032714298762597
+    second: BossHeadRaiseSheet_6
+  - first:
+      213: 8443573773184922953
+    second: BossHeadRaiseSheet_7
+  - first:
+      213: 8855374572572661762
+    second: BossHeadRaiseSheet_8
+  - first:
+      213: 5594100060942547407
+    second: BossHeadRaiseSheet_9
+  - first:
+      213: -1821281249332369376
+    second: BossHeadRaiseSheet_10
+  - first:
+      213: 7926330800121059881
+    second: BossHeadRaiseSheet_11
+  - first:
+      213: -441629656309276072
+    second: BossHeadRaiseSheet_12
+  - first:
+      213: -2308639888234480764
+    second: BossHeadRaiseSheet_13
+  - first:
+      213: -2698436068207362267
+    second: BossHeadRaiseSheet_14
+  - first:
+      213: 5783150270430701527
+    second: BossHeadRaiseSheet_15
+  - first:
+      213: 4186074182887140196
+    second: BossHeadRaiseSheet_16
+  - first:
+      213: 2621187767779327265
+    second: BossHeadRaiseSheet_17
+  - first:
+      213: 9059646690781393334
+    second: BossHeadRaiseSheet_18
+  - first:
+      213: -3006530517719945796
+    second: BossHeadRaiseSheet_19
+  - first:
+      213: 9154975338812712294
+    second: BossHeadRaiseSheet_20
+  - first:
+      213: 3214321847208485349
+    second: BossHeadRaiseSheet_21
+  - first:
+      213: 3179607854467905243
+    second: BossHeadRaiseSheet_22
+  - first:
+      213: -6781600453567395000
+    second: BossHeadRaiseSheet_23
+  - first:
+      213: 4456464454898847669
+    second: BossHeadRaiseSheet_24
+  - first:
+      213: -679401276532151197
+    second: BossHeadRaiseSheet_25
+  - first:
+      213: 2349923219014190431
+    second: BossHeadRaiseSheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 632
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71019560b2aa0cb20800000000000000
+      internalID: 3152706840926162967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 594
+        width: 236
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bb445775d34ab40800000000000000
+      internalID: 5450548894864030508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 570
+        width: 167
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b3e58f6e97f910800000000000000
+      internalID: 1871138372020580830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 560
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be29e818f4cfe70800000000000000
+      internalID: 9150275960771373839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_4
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 705
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c8e5b0f94482a0800000000000000
+      internalID: -6736177844446508980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 0
+        width: 486
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae553b2f320a4ec0800000000000000
+      internalID: -3582048083288695127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 642
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565289464470fc460800000000000000
+      internalID: 7264032714298762597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 639
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945fd795c999d2570800000000000000
+      internalID: 8443573773184922953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 610
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085837814c94ea70800000000000000
+      internalID: 8855374572572661762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 624
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b87add5c32ad40800000000000000
+      internalID: 5594100060942547407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 616
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028e6717a5289b6e0800000000000000
+      internalID: -1821281249332369376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 598
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a14710edbfffd60800000000000000
+      internalID: 7926330800121059881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 596
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852686dda240fd9f0800000000000000
+      internalID: -441629656309276072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 594
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7c7bd04016ffd0800000000000000
+      internalID: -2308639888234480764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 562
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ff56161ba3d8ad0800000000000000
+      internalID: -2698436068207362267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 562
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e9bfc780e14050800000000000000
+      internalID: 5783150270430701527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 562
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46beb626a4ce71a30800000000000000
+      internalID: 4186074182887140196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 82
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df51c1364506420800000000000000
+      internalID: 2621187767779327265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1719a4aa45abd70800000000000000
+      internalID: 9059646690781393334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_19
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 30
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6ee46c68a646d0800000000000000
+      internalID: -3006530517719945796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 474
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665a465c0910d0f70800000000000000
+      internalID: 9154975338812712294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 22
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a3a890b09b9c20800000000000000
+      internalID: 3214321847208485349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_22
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f9925f7c302c20800000000000000
+      internalID: 3179607854467905243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bcc74615ae2e1a0800000000000000
+      internalID: -6781600453567395000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 63
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf86647fca88dd30800000000000000
+      internalID: 4456464454898847669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36caa5c73284296f0800000000000000
+      internalID: -679401276532151197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossHeadRaiseSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5588ce97ba9c9020800000000000000
+      internalID: 2349923219014190431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossHeadRaiseSheet_0: 3152706840926162967
+      BossHeadRaiseSheet_1: 5450548894864030508
+      BossHeadRaiseSheet_10: -1821281249332369376
+      BossHeadRaiseSheet_11: 7926330800121059881
+      BossHeadRaiseSheet_12: -441629656309276072
+      BossHeadRaiseSheet_13: -2308639888234480764
+      BossHeadRaiseSheet_14: -2698436068207362267
+      BossHeadRaiseSheet_15: 5783150270430701527
+      BossHeadRaiseSheet_16: 4186074182887140196
+      BossHeadRaiseSheet_17: 2621187767779327265
+      BossHeadRaiseSheet_18: 9059646690781393334
+      BossHeadRaiseSheet_19: -3006530517719945796
+      BossHeadRaiseSheet_2: 1871138372020580830
+      BossHeadRaiseSheet_20: 9154975338812712294
+      BossHeadRaiseSheet_21: 3214321847208485349
+      BossHeadRaiseSheet_22: 3179607854467905243
+      BossHeadRaiseSheet_23: -6781600453567395000
+      BossHeadRaiseSheet_24: 4456464454898847669
+      BossHeadRaiseSheet_25: -679401276532151197
+      BossHeadRaiseSheet_26: 2349923219014190431
+      BossHeadRaiseSheet_3: 9150275960771373839
+      BossHeadRaiseSheet_4: -6736177844446508980
+      BossHeadRaiseSheet_5: -3582048083288695127
+      BossHeadRaiseSheet_6: 7264032714298762597
+      BossHeadRaiseSheet_7: 8443573773184922953
+      BossHeadRaiseSheet_8: 8855374572572661762
+      BossHeadRaiseSheet_9: 5594100060942547407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: e72182495ea3aaa4a9b356cb2e12049f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8631488407105629315
+    second: FallenBell_0
+  - first:
+      213: 6793146234735333114
+    second: FallenBell_1
+  - first:
+      213: 3303855822305112068
+    second: FallenBell_2
+  - first:
+      213: -8855653899123590479
+    second: FallenBell_3
+  - first:
+      213: -4687685488737461463
+    second: FallenBell_4
+  - first:
+      213: -1095609566620446837
+    second: FallenBell_5
+  - first:
+      213: 264268415199207298
+    second: FallenBell_6
+  - first:
+      213: -200493321594754695
+    second: FallenBell_7
+  - first:
+      213: -2415029514494129759
+    second: FallenBell_8
+  - first:
+      213: -7380156330524709149
+    second: FallenBell_9
+  - first:
+      213: 5309023993352459931
+    second: FallenBell_10
+  - first:
+      213: -1965202283593323029
+    second: FallenBell_11
+  - first:
+      213: 6796435012135068482
+    second: FallenBell_12
+  - first:
+      213: 5154548723263436955
+    second: FallenBell_13
+  - first:
+      213: -3586067485290877520
+    second: FallenBell_14
+  - first:
+      213: -7731173688416989791
+    second: FallenBell_15
+  - first:
+      213: -8234603625598698567
+    second: FallenBell_16
+  - first:
+      213: -459922129265357748
+    second: FallenBell_17
+  - first:
+      213: -7587779705315576082
+    second: FallenBell_18
+  - first:
+      213: 346351220677017103
+    second: FallenBell_19
+  - first:
+      213: -1573676764736074719
+    second: FallenBell_20
+  - first:
+      213: -8212519915368771765
+    second: FallenBell_21
+  - first:
+      213: -7473092771435298837
+    second: FallenBell_22
+  - first:
+      213: -6553494218781913920
+    second: FallenBell_23
+  - first:
+      213: 4246649722593128263
+    second: FallenBell_24
+  - first:
+      213: 5345853364401847018
+    second: FallenBell_25
+  - first:
+      213: 2850769821993750212
+    second: FallenBell_26
+  - first:
+      213: 8982384058670226045
+    second: FallenBell_00
+  - first:
+      213: -4344255050655392661
+    second: FallenBell_01
+  - first:
+      213: 4115743465359922183
+    second: FallenBell_02
+  - first:
+      213: 8345532177186743930
+    second: FallenBell_03
+  - first:
+      213: 6566647295793045761
+    second: FallenBell_04
+  - first:
+      213: -7423464981418453420
+    second: FallenBell_05
+  - first:
+      213: 201909937344374811
+    second: FallenBell_06
+  - first:
+      213: -8487072585377072972
+    second: FallenBell_07
+  - first:
+      213: -7699714805623192671
+    second: FallenBell_08
+  - first:
+      213: 8136212827286627988
+    second: FallenBell_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FallenBell_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a9b2de5b6d7ac70800000000000000
+      internalID: 8982384058670226045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c1dfb5c0b16b3c0800000000000000
+      internalID: -4344255050655392661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704d96720ee0e1930800000000000000
+      internalID: 4115743465359922183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76eec27c4941d370800000000000000
+      internalID: 8345532177186743930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10126078cea612b50800000000000000
+      internalID: 6566647295793045761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456500c3eed8af890800000000000000
+      internalID: -7423464981418453420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18680ca4045dc200800000000000000
+      internalID: 201909937344374811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b4a5337cd73a80800000000000000
+      internalID: -8487072585377072972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3830bdd2e152590800000000000000
+      internalID: -7699714805623192671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496656b7572a9e070800000000000000
+      internalID: 8136212827286627988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969ccb81317da940800000000000000
+      internalID: 5309023993352459931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallenBell_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed22a66fe23ab4e0800000000000000
+      internalID: -1965202283593323029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FallenBell_0: 8631488407105629315
+      FallenBell_00: 8982384058670226045
+      FallenBell_01: -4344255050655392661
+      FallenBell_02: 4115743465359922183
+      FallenBell_03: 8345532177186743930
+      FallenBell_04: 6566647295793045761
+      FallenBell_05: -7423464981418453420
+      FallenBell_06: 201909937344374811
+      FallenBell_07: -8487072585377072972
+      FallenBell_08: -7699714805623192671
+      FallenBell_09: 8136212827286627988
+      FallenBell_1: 6793146234735333114
+      FallenBell_10: 5309023993352459931
+      FallenBell_11: -1965202283593323029
+      FallenBell_12: 6796435012135068482
+      FallenBell_13: 5154548723263436955
+      FallenBell_14: -3586067485290877520
+      FallenBell_15: -7731173688416989791
+      FallenBell_16: -8234603625598698567
+      FallenBell_17: -459922129265357748
+      FallenBell_18: -7587779705315576082
+      FallenBell_19: 346351220677017103
+      FallenBell_2: 3303855822305112068
+      FallenBell_20: -1573676764736074719
+      FallenBell_21: -8212519915368771765
+      FallenBell_22: -7473092771435298837
+      FallenBell_23: -6553494218781913920
+      FallenBell_24: 4246649722593128263
+      FallenBell_25: 5345853364401847018
+      FallenBell_26: 2850769821993750212
+      FallenBell_3: -8855653899123590479
+      FallenBell_4: -4687685488737461463
+      FallenBell_5: -1095609566620446837
+      FallenBell_6: 264268415199207298
+      FallenBell_7: -200493321594754695
+      FallenBell_8: -2415029514494129759
+      FallenBell_9: -7380156330524709149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

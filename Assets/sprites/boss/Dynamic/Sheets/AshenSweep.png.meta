@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 7480dafb77fa8714282a90ff6d260d37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6966147947403618213
+    second: AshenSweep_0
+  - first:
+      213: -419928846068868276
+    second: AshenSweep_1
+  - first:
+      213: -1917075514072414382
+    second: AshenSweep_2
+  - first:
+      213: -5022478505667698466
+    second: AshenSweep_3
+  - first:
+      213: 6740531971586197120
+    second: AshenSweep_4
+  - first:
+      213: 8403656093974953603
+    second: AshenSweep_5
+  - first:
+      213: -598735423097295720
+    second: AshenSweep_6
+  - first:
+      213: 3066349181790712099
+    second: AshenSweep_7
+  - first:
+      213: 326966536296556813
+    second: AshenSweep_8
+  - first:
+      213: -3934335312250089413
+    second: AshenSweep_9
+  - first:
+      213: 1406804584119649596
+    second: AshenSweep_10
+  - first:
+      213: 48912802986076372
+    second: AshenSweep_11
+  - first:
+      213: -5851118855600257265
+    second: AshenSweep_12
+  - first:
+      213: 3625060038287107519
+    second: AshenSweep_13
+  - first:
+      213: -9036835773853589647
+    second: AshenSweep_14
+  - first:
+      213: -592773633494280319
+    second: AshenSweep_15
+  - first:
+      213: -7449122233867077790
+    second: AshenSweep_16
+  - first:
+      213: -3224876285335824740
+    second: AshenSweep_17
+  - first:
+      213: -1230798341359839885
+    second: AshenSweep_18
+  - first:
+      213: 8723185423201863359
+    second: AshenSweep_19
+  - first:
+      213: 7438964339762018908
+    second: AshenSweep_20
+  - first:
+      213: -7384779756852087716
+    second: AshenSweep_21
+  - first:
+      213: -2283829310617167133
+    second: AshenSweep_22
+  - first:
+      213: 8055591423965230726
+    second: AshenSweep_23
+  - first:
+      213: -4281768056777785274
+    second: AshenSweep_24
+  - first:
+      213: 4914864334344507061
+    second: AshenSweep_25
+  - first:
+      213: 5037080636390884101
+    second: AshenSweep_26
+  - first:
+      213: -3160116810869862561
+    second: AshenSweep_00
+  - first:
+      213: -8650467450497403686
+    second: AshenSweep_01
+  - first:
+      213: 6013116284681585279
+    second: AshenSweep_02
+  - first:
+      213: 3199963123591062953
+    second: AshenSweep_03
+  - first:
+      213: -314612962744141894
+    second: AshenSweep_04
+  - first:
+      213: 1989008829663540339
+    second: AshenSweep_05
+  - first:
+      213: -737810009576611967
+    second: AshenSweep_06
+  - first:
+      213: 2113807399510315402
+    second: AshenSweep_07
+  - first:
+      213: -4459831801572639776
+    second: AshenSweep_08
+  - first:
+      213: 7026515946341838923
+    second: AshenSweep_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AshenSweep_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f8c57e0820524d0800000000000000
+      internalID: -3160116810869862561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f5089fad53f780800000000000000
+      internalID: -8650467450497403686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72009de661e27350800000000000000
+      internalID: 6013116284681585279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5aefbb18d886c20800000000000000
+      internalID: 3199963123591062953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7f6e16d2542abf0800000000000000
+      internalID: -314612962744141894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f53b0ef06a9b10800000000000000
+      internalID: 1989008829663540339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f557394b5c2c5f0800000000000000
+      internalID: -737810009576611967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81976361a0c55d10800000000000000
+      internalID: 2113807399510315402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb54d0b9e7b12c0800000000000000
+      internalID: -4459831801572639776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b25e6603338160800000000000000
+      internalID: 7026515946341838923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshenSweep_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c7d0d059f58310800000000000000
+      internalID: 1406804584119649596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AshenSweep_0: -6966147947403618213
+      AshenSweep_00: -3160116810869862561
+      AshenSweep_01: -8650467450497403686
+      AshenSweep_02: 6013116284681585279
+      AshenSweep_03: 3199963123591062953
+      AshenSweep_04: -314612962744141894
+      AshenSweep_05: 1989008829663540339
+      AshenSweep_06: -737810009576611967
+      AshenSweep_07: 2113807399510315402
+      AshenSweep_08: -4459831801572639776
+      AshenSweep_09: 7026515946341838923
+      AshenSweep_1: -419928846068868276
+      AshenSweep_10: 1406804584119649596
+      AshenSweep_11: 48912802986076372
+      AshenSweep_12: -5851118855600257265
+      AshenSweep_13: 3625060038287107519
+      AshenSweep_14: -9036835773853589647
+      AshenSweep_15: -592773633494280319
+      AshenSweep_16: -7449122233867077790
+      AshenSweep_17: -3224876285335824740
+      AshenSweep_18: -1230798341359839885
+      AshenSweep_19: 8723185423201863359
+      AshenSweep_2: -1917075514072414382
+      AshenSweep_20: 7438964339762018908
+      AshenSweep_21: -7384779756852087716
+      AshenSweep_22: -2283829310617167133
+      AshenSweep_23: 8055591423965230726
+      AshenSweep_24: -4281768056777785274
+      AshenSweep_25: 4914864334344507061
+      AshenSweep_26: 5037080636390884101
+      AshenSweep_3: -5022478505667698466
+      AshenSweep_4: 6740531971586197120
+      AshenSweep_5: 8403656093974953603
+      AshenSweep_6: -598735423097295720
+      AshenSweep_7: 3066349181790712099
+      AshenSweep_8: 326966536296556813
+      AshenSweep_9: -3934335312250089413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,63 @@
+PASS first dynamic pose exactly reconstructs original pixels
+PASS original and wendigo animation clips exported
+PASS wendigo attack keeps the same canvas, pivot and pixel filtering
+PASS all Rending Claw frames share point filtering, canvas and pivot
+PASS eleven poses keep the claw's full timing and a rapid impact
+PASS ordinary boss hit plays a flinch and hurt sound (took=True, move=Flinch, pose=994780949, sounds=1)
+PASS a sword hit damages the boss without cancelling its claw windup
+PASS the claw hitbox still activates after the boss takes damage
+PASS repeated clicks cannot keep the boss from answering with an attack
+PASS RendingClaw selects a distinct body animation
+PASS RendingClaw closes active collider and reaches recovery
+PASS RendingClaw opens a finite active window
+PASS DoubleClawCombo selects a distinct body animation
+PASS DoubleClawCombo closes active collider and reaches recovery
+PASS DoubleClawCombo opens a finite active window
+PASS HuntersLeap selects a distinct body animation
+PASS HuntersLeap closes active collider and reaches recovery
+PASS AshenSweep selects a distinct body animation
+PASS AshenSweep closes active collider and reaches recovery
+PASS FallenBell selects a distinct body animation
+PASS FallenBell closes active collider and reaches recovery
+PASS FallenBell opens a finite active window
+PASS FalseOpening selects a distinct body animation
+PASS FalseOpening closes active collider and reaches recovery
+PASS AntiAirClaw selects a distinct body animation
+PASS AntiAirClaw closes active collider and reaches recovery
+PASS AntiAirClaw opens a finite active window
+PASS CeilingDescent selects a distinct body animation
+PASS CeilingDescent closes active collider and reaches recovery
+PASS TripleAshWave selects a distinct body animation
+PASS TripleAshWave closes active collider and reaches recovery
+PASS LastToll selects a distinct body animation
+PASS LastToll closes active collider and reaches recovery
+PASS ClawLeapSlam selects a distinct body animation
+PASS ClawLeapSlam closes active collider and reaches recovery
+PASS ClawLeapSlam opens a finite active window
+PASS Reposition selects a distinct body animation
+PASS Reposition closes active collider and reaches recovery
+PASS natural AI approaches the player across the arena
+PASS natural AI chooses different attacks without forced moves
+PASS natural AI never repeats an attack more than twice
+PASS Hunter's Leap launches from mid range
+PASS Hunter's Leap crosses the player and lands behind
+PASS Ceiling Descent begins from the arena
+PASS damage during ceiling ascent returns boss to the arena (hidden=True, simulated=True, y=2,00, move=PhaseTransition)
+PASS boss starts with 26 health
+PASS half health starts phase transition
+PASS transformation plays dedicated wendigo animation
+PASS second phase retains health and changes form
+PASS upright form remains hittable through the head and chest
+PASS second phase has its own idle animation
+PASS second phase remains active below half health
+PASS wendigo casts crimson sigils
+PASS sigils show three floor warnings
+PASS wendigo casts scarlet rain
+PASS scarlet rain spawns falling shards
+PASS wendigo starts antler rush
+PASS antler rush has a finite active hitbox
+PASS downward sword hit damages boss and confirms pogo
+PASS lethal blow begins death animation before victory
+PASS death animation completes before boss disappears
+PASS BOSS DEFEATED appears after the collapse
+TOTAL 62 passed, 0 failed

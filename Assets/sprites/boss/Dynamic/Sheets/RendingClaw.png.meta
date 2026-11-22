@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 9050d3e9dcde2624f89d492440dc750f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3563199393521293162
+    second: RendingClaw_0
+  - first:
+      213: 8812344766124456757
+    second: RendingClaw_1
+  - first:
+      213: 8986847461507942393
+    second: RendingClaw_2
+  - first:
+      213: 37511692935366293
+    second: RendingClaw_3
+  - first:
+      213: -1018938182413973887
+    second: RendingClaw_4
+  - first:
+      213: -7160521544404587248
+    second: RendingClaw_5
+  - first:
+      213: 5571094390483640390
+    second: RendingClaw_6
+  - first:
+      213: 6904575688418262139
+    second: RendingClaw_7
+  - first:
+      213: -7289587148359764213
+    second: RendingClaw_8
+  - first:
+      213: 6190634636526901596
+    second: RendingClaw_9
+  - first:
+      213: -6179314659151573947
+    second: RendingClaw_10
+  - first:
+      213: -261459027112766859
+    second: RendingClaw_11
+  - first:
+      213: -8258161615816814635
+    second: RendingClaw_12
+  - first:
+      213: -5356928206032090092
+    second: RendingClaw_13
+  - first:
+      213: -3318511828770477236
+    second: RendingClaw_14
+  - first:
+      213: -557680736401235853
+    second: RendingClaw_15
+  - first:
+      213: 1902285052599578183
+    second: RendingClaw_00
+  - first:
+      213: -5512652195285830259
+    second: RendingClaw_01
+  - first:
+      213: 3680707305056320727
+    second: RendingClaw_02
+  - first:
+      213: -2919814354603095999
+    second: RendingClaw_03
+  - first:
+      213: 4303549940917191725
+    second: RendingClaw_04
+  - first:
+      213: -7018442889399494669
+    second: RendingClaw_05
+  - first:
+      213: 3348691112455013768
+    second: RendingClaw_06
+  - first:
+      213: -7712020950112079071
+    second: RendingClaw_07
+  - first:
+      213: -6928823393695307737
+    second: RendingClaw_08
+  - first:
+      213: 8471584270293221769
+    second: RendingClaw_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RendingClaw_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eabb53d26466a10800000000000000
+      internalID: 1902285052599578183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85f5b129002f73b0800000000000000
+      internalID: -5512652195285830259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3110facf741330800000000000000
+      internalID: 3680707305056320727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148cbc7705cba77d0800000000000000
+      internalID: -2919814354603095999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24c58dbed749bb30800000000000000
+      internalID: 4303549940917191725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71afc906b799e90800000000000000
+      internalID: -7018442889399494669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885836c13d0f87e20800000000000000
+      internalID: 3348691112455013768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123f2305ec569f490800000000000000
+      internalID: -7712020950112079071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ef5b75dfd7df90800000000000000
+      internalID: -6928823393695307737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814d9b620d119570800000000000000
+      internalID: 8471584270293221769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RendingClaw_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c08e19e0aae3aa0800000000000000
+      internalID: -6179314659151573947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RendingClaw_0: -3563199393521293162
+      RendingClaw_00: 1902285052599578183
+      RendingClaw_01: -5512652195285830259
+      RendingClaw_02: 3680707305056320727
+      RendingClaw_03: -2919814354603095999
+      RendingClaw_04: 4303549940917191725
+      RendingClaw_05: -7018442889399494669
+      RendingClaw_06: 3348691112455013768
+      RendingClaw_07: -7712020950112079071
+      RendingClaw_08: -6928823393695307737
+      RendingClaw_09: 8471584270293221769
+      RendingClaw_1: 8812344766124456757
+      RendingClaw_10: -6179314659151573947
+      RendingClaw_11: -261459027112766859
+      RendingClaw_12: -8258161615816814635
+      RendingClaw_13: -5356928206032090092
+      RendingClaw_14: -3318511828770477236
+      RendingClaw_15: -557680736401235853
+      RendingClaw_2: 8986847461507942393
+      RendingClaw_3: 37511692935366293
+      RendingClaw_4: -1018938182413973887
+      RendingClaw_5: -7160521544404587248
+      RendingClaw_6: 5571094390483640390
+      RendingClaw_7: 6904575688418262139
+      RendingClaw_8: -7289587148359764213
+      RendingClaw_9: 6190634636526901596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

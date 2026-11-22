@@ -1,0 +1,3382 @@
+fileFormatVersion: 2
+guid: 639b265a344d540448e9b3fb9ef6c07a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8217051283318964499
+    second: CemeterySpawnPropsSource_0
+  - first:
+      213: -1836530294209570550
+    second: CemeterySpawnPropsSource_1
+  - first:
+      213: -5186482514572324031
+    second: CemeterySpawnPropsSource_2
+  - first:
+      213: -4344834678256602473
+    second: CemeterySpawnPropsSource_3
+  - first:
+      213: 1463562298536460231
+    second: CemeterySpawnPropsSource_4
+  - first:
+      213: -4910428236624365451
+    second: CemeterySpawnPropsSource_5
+  - first:
+      213: -6854540031916228141
+    second: CemeterySpawnPropsSource_6
+  - first:
+      213: 9049916191177360529
+    second: CemeterySpawnPropsSource_7
+  - first:
+      213: 3513408743718322699
+    second: CemeterySpawnPropsSource_8
+  - first:
+      213: 6073000269905063879
+    second: CemeterySpawnPropsSource_9
+  - first:
+      213: -743846093347730711
+    second: CemeterySpawnPropsSource_10
+  - first:
+      213: -8710893950723801497
+    second: CemeterySpawnPropsSource_11
+  - first:
+      213: -7239226358452799180
+    second: CemeterySpawnPropsSource_12
+  - first:
+      213: 8757275047879677408
+    second: CemeterySpawnPropsSource_13
+  - first:
+      213: -5858778876637944879
+    second: CemeterySpawnPropsSource_14
+  - first:
+      213: 2925220450739030310
+    second: CemeterySpawnPropsSource_15
+  - first:
+      213: 7604041690243255404
+    second: CemeterySpawnPropsSource_16
+  - first:
+      213: -2988133381030469617
+    second: CemeterySpawnPropsSource_17
+  - first:
+      213: 802298446174876028
+    second: CemeterySpawnPropsSource_18
+  - first:
+      213: 4650249736780789386
+    second: CemeterySpawnPropsSource_19
+  - first:
+      213: -6176206600684814880
+    second: CemeterySpawnPropsSource_20
+  - first:
+      213: -4314830253805265394
+    second: CemeterySpawnPropsSource_21
+  - first:
+      213: 6366339061576045982
+    second: CemeterySpawnPropsSource_22
+  - first:
+      213: -1019500950463241258
+    second: CemeterySpawnPropsSource_23
+  - first:
+      213: 4754988488914955113
+    second: CemeterySpawnPropsSource_24
+  - first:
+      213: 8279718681021212333
+    second: CemeterySpawnPropsSource_25
+  - first:
+      213: -8914914048761128652
+    second: CemeterySpawnPropsSource_26
+  - first:
+      213: -5779772692448223106
+    second: CemeterySpawnPropsSource_27
+  - first:
+      213: 8941513049970292677
+    second: CemeterySpawnPropsSource_28
+  - first:
+      213: 5675300954202564483
+    second: CemeterySpawnPropsSource_29
+  - first:
+      213: -4888909961985251164
+    second: CemeterySpawnPropsSource_30
+  - first:
+      213: 2724686623850751710
+    second: CemeterySpawnPropsSource_31
+  - first:
+      213: -6691813779737198255
+    second: CemeterySpawnPropsSource_32
+  - first:
+      213: 7419238890463139798
+    second: CemeterySpawnPropsSource_33
+  - first:
+      213: -4849939909701936639
+    second: CemeterySpawnPropsSource_34
+  - first:
+      213: -1999525177725625588
+    second: CemeterySpawnPropsSource_35
+  - first:
+      213: 1221566013364357756
+    second: CemeterySpawnPropsSource_36
+  - first:
+      213: 1991301858456285117
+    second: CemeterySpawnPropsSource_37
+  - first:
+      213: 8307905201415708627
+    second: CemeterySpawnPropsSource_38
+  - first:
+      213: 5898898455443215739
+    second: CemeterySpawnPropsSource_39
+  - first:
+      213: -3992257419300760703
+    second: CemeterySpawnPropsSource_40
+  - first:
+      213: -6135200843969482369
+    second: CemeterySpawnPropsSource_41
+  - first:
+      213: 3980641661727653925
+    second: CemeterySpawnPropsSource_42
+  - first:
+      213: -1863067575291805948
+    second: CemeterySpawnPropsSource_43
+  - first:
+      213: -6244822100990441719
+    second: CemeterySpawnPropsSource_44
+  - first:
+      213: -7885103092764743635
+    second: CemeterySpawnPropsSource_45
+  - first:
+      213: 5467427664229929487
+    second: CemeterySpawnPropsSource_46
+  - first:
+      213: 493823427523331101
+    second: CemeterySpawnPropsSource_47
+  - first:
+      213: 3346760073654608180
+    second: CemeterySpawnPropsSource_48
+  - first:
+      213: 3881646025810360512
+    second: CemeterySpawnPropsSource_49
+  - first:
+      213: -4654548680690317237
+    second: CemeterySpawnPropsSource_50
+  - first:
+      213: -4027271638486112816
+    second: CemeterySpawnPropsSource_51
+  - first:
+      213: 2465080453254267410
+    second: CemeterySpawnPropsSource_52
+  - first:
+      213: 2378781757446842260
+    second: CemeterySpawnPropsSource_53
+  - first:
+      213: -6011055695508851062
+    second: CemeterySpawnPropsSource_54
+  - first:
+      213: -6551651527372604412
+    second: CemeterySpawnPropsSource_55
+  - first:
+      213: 1081975931906675424
+    second: CemeterySpawnPropsSource_56
+  - first:
+      213: -5600722176211597123
+    second: CemeterySpawnPropsSource_57
+  - first:
+      213: 698366823339506048
+    second: CemeterySpawnPropsSource_58
+  - first:
+      213: -114985963810315176
+    second: CemeterySpawnPropsSource_59
+  - first:
+      213: -6560332548085217429
+    second: CemeterySpawnPropsSource_60
+  - first:
+      213: -6312500815936604644
+    second: CemeterySpawnPropsSource_61
+  - first:
+      213: 872848542431042633
+    second: CemeterySpawnPropsSource_62
+  - first:
+      213: -1074354396442922080
+    second: CemeterySpawnPropsSource_63
+  - first:
+      213: -4605965848944747469
+    second: CemeterySpawnPropsSource_64
+  - first:
+      213: 8538594331463334003
+    second: CemeterySpawnPropsSource_65
+  - first:
+      213: -1666873142891168250
+    second: CemeterySpawnPropsSource_66
+  - first:
+      213: -150353757621596995
+    second: CemeterySpawnPropsSource_67
+  - first:
+      213: 291677932074141148
+    second: CemeterySpawnPropsSource_68
+  - first:
+      213: -3637060374406967645
+    second: CemeterySpawnPropsSource_69
+  - first:
+      213: 5687090419458044615
+    second: CemeterySpawnPropsSource_70
+  - first:
+      213: 3625861920328507066
+    second: CemeterySpawnPropsSource_71
+  - first:
+      213: 8965670434162089528
+    second: CemeterySpawnPropsSource_72
+  - first:
+      213: -7178568998794487835
+    second: CemeterySpawnPropsSource_73
+  - first:
+      213: -6139632838180099760
+    second: CemeterySpawnPropsSource_74
+  - first:
+      213: -311865911859029085
+    second: CemeterySpawnPropsSource_75
+  - first:
+      213: 8576829329051643217
+    second: CemeterySpawnPropsSource_76
+  - first:
+      213: 1273339021102731639
+    second: CemeterySpawnPropsSource_77
+  - first:
+      213: 3079134663312496226
+    second: CemeterySpawnPropsSource_78
+  - first:
+      213: -4715276207173342883
+    second: CemeterySpawnPropsSource_79
+  - first:
+      213: -2214539874777163538
+    second: CemeterySpawnPropsSource_80
+  - first:
+      213: -5919517092725247632
+    second: CemeterySpawnPropsSource_81
+  - first:
+      213: 9037876659904635865
+    second: CemeterySpawnPropsSource_82
+  - first:
+      213: -1338591122944664152
+    second: CemeterySpawnPropsSource_83
+  - first:
+      213: 3842391557580785567
+    second: CemeterySpawnPropsSource_84
+  - first:
+      213: -5996778957080526789
+    second: CemeterySpawnPropsSource_85
+  - first:
+      213: 320630585876049449
+    second: CemeterySpawnPropsSource_86
+  - first:
+      213: 3710952033316623791
+    second: CemeterySpawnPropsSource_87
+  - first:
+      213: 803771594153596539
+    second: CemeterySpawnPropsSource_88
+  - first:
+      213: 6576694702948388034
+    second: CemeterySpawnPropsSource_89
+  - first:
+      213: -2656627542087210946
+    second: CemeterySpawnPropsSource_90
+  - first:
+      213: -8650032345976213561
+    second: CemeterySpawnPropsSource_91
+  - first:
+      213: 6441828868080128650
+    second: CemeterySpawnPropsSource_92
+  - first:
+      213: -6657044286461173715
+    second: CemeterySpawnPropsSource_93
+  - first:
+      213: 4033671073384125748
+    second: CemeterySpawnPropsSource_94
+  - first:
+      213: -5556394307664136757
+    second: CemeterySpawnPropsSource_95
+  - first:
+      213: 7257835663619136216
+    second: CemeterySpawnPropsSource_96
+  - first:
+      213: 1514154009026909490
+    second: CemeterySpawnPropsSource_97
+  - first:
+      213: -3608491321204774803
+    second: CemeterySpawnPropsSource_98
+  - first:
+      213: -3671326419790727096
+    second: CemeterySpawnPropsSource_99
+  - first:
+      213: -6021887685920235758
+    second: CemeterySpawnPropsSource_100
+  - first:
+      213: -3379929516238509573
+    second: CemeterySpawnPropsSource_101
+  - first:
+      213: -533638951930583710
+    second: CemeterySpawnPropsSource_102
+  - first:
+      213: 8357300574203376968
+    second: CemeterySpawnPropsSource_103
+  - first:
+      213: -8845293597429898872
+    second: CemeterySpawnPropsSource_104
+  - first:
+      213: 658109960435583166
+    second: CemeterySpawnPropsSource_105
+  - first:
+      213: -1108495768049378320
+    second: CemeterySpawnPropsSource_106
+  - first:
+      213: -6490115022251706898
+    second: CemeterySpawnPropsSource_107
+  - first:
+      213: -892326382495691491
+    second: CemeterySpawnPropsSource_108
+  - first:
+      213: -1119351731097698713
+    second: CemeterySpawnPropsSource_109
+  - first:
+      213: 4393822456268436284
+    second: CemeterySpawnPropsSource_110
+  - first:
+      213: -123996724037346533
+    second: CemeterySpawnPropsSource_111
+  - first:
+      213: 4713544188490451833
+    second: CemeterySpawnPropsSource_112
+  - first:
+      213: -6808406159779194092
+    second: CemeterySpawnPropsSource_113
+  - first:
+      213: -7288467882614307290
+    second: CemeterySpawnPropsSource_114
+  - first:
+      213: 5676170644073009071
+    second: CemeterySpawnPropsSource_115
+  - first:
+      213: 5250719647144495781
+    second: CemeterySpawnPropsSource_116
+  - first:
+      213: 7404399923663369059
+    second: CemeterySpawnPropsSource_117
+  - first:
+      213: -4335010618892533586
+    second: CemeterySpawnPropsSource_118
+  - first:
+      213: 5389413146600318638
+    second: CemeterySpawnPropsSource_119
+  - first:
+      213: 6664362251115447551
+    second: CemeterySpawnPropsSource_120
+  - first:
+      213: 9087532159195660406
+    second: CemeterySpawnPropsSource_121
+  - first:
+      213: 8303288437901165307
+    second: CemeterySpawnPropsSource_122
+  - first:
+      213: 1495929847250825423
+    second: CemeterySpawnPropsSource_123
+  - first:
+      213: -8998791475404554558
+    second: CemeterySpawnPropsSource_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 661
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311056b3b94d80270800000000000000
+      internalID: 8217051283318964499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 421
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0915628d655386e0800000000000000
+      internalID: -1836530294209570550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 413
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1435425d1a9e508b0800000000000000
+      internalID: -5186482514572324031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 617
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79277ba41eb04b3c0800000000000000
+      internalID: -4344834678256602473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 612
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf7beef72e9f4410800000000000000
+      internalID: 1463562298536460231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 630
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f4fc0987aadbb0800000000000000
+      internalID: -4910428236624365451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d140fa6828cfd0a0800000000000000
+      internalID: -6854540031916228141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 618
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ce2ec3d2c79d70800000000000000
+      internalID: 9049916191177360529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 618
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02051833a222c030800000000000000
+      internalID: 3513408743718322699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 644
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfea80c191a74450800000000000000
+      internalID: 6073000269905063879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 673
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea427e4be35da5f0800000000000000
+      internalID: -743846093347730711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 667
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3207aa10bc1780800000000000000
+      internalID: -8710893950723801497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 675
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b6c76bf9198b90800000000000000
+      internalID: -7239226358452799180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 646
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5924d0247188970800000000000000
+      internalID: 8757275047879677408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 640
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3ee6027af61bea0800000000000000
+      internalID: -5858778876637944879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 669
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62902006088789820800000000000000
+      internalID: 2925220450739030310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 672
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc53c11abf68960800000000000000
+      internalID: 7604041690243255404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 669
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00213295840886d0800000000000000
+      internalID: -2988133381030469617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 651
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71f910af26522b00800000000000000
+      internalID: 802298446174876028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 616
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a863cad5f71098040800000000000000
+      internalID: 4650249736780789386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 642
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed32c2d1d4b94aa0800000000000000
+      internalID: -6176206600684814880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e14dfbeb4ae14c0800000000000000
+      internalID: -4314830253805265394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 626
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e951fec65a7c95850800000000000000
+      internalID: 6366339061576045982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 673
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3277f79410ad1f0800000000000000
+      internalID: -1019500950463241258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 653
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96be8d076dc1df140800000000000000
+      internalID: 4754988488914955113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 642
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66f66c54877e270800000000000000
+      internalID: 8279718681021212333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 663
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391478e7ecd74480800000000000000
+      internalID: -8914914048761128652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 642
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ee18db5f1acfa0800000000000000
+      internalID: -5779772692448223106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 644
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7bff9aeb2a61c70800000000000000
+      internalID: 8941513049970292677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_29
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 431
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387eda81628b2ce40800000000000000
+      internalID: 5675300954202564483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_30
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 534
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a82009ca4a172cb0800000000000000
+      internalID: -4888909961985251164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 498
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e1e26c0800d520800000000000000
+      internalID: 2724686623850751710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_32
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 220
+        width: 108
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15143b372d6e123a0800000000000000
+      internalID: -6691813779737198255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_33
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 421
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d791d9467e66f660800000000000000
+      internalID: 7419238890463139798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_34
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 431
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad934295d81bcb0800000000000000
+      internalID: -4849939909701936639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 651
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd63ed1724044e0800000000000000
+      internalID: -1999525177725625588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 431
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac54821dfd3f010800000000000000
+      internalID: 1221566013364357756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 962
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfacd96d7682ab10800000000000000
+      internalID: 1991301858456285117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 522
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfd00673cb9b4370800000000000000
+      internalID: 8307905201415708627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 564
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751bca34e81dd150800000000000000
+      internalID: 5898898455443215739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_40
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 691
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18319ae6707a898c0800000000000000
+      internalID: -3992257419300760703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_41
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 391
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b58d86536bdaa0800000000000000
+      internalID: -6135200843969482369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 583
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520c56140841e3730800000000000000
+      internalID: 3980641661727653925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_43
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 574
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffe2649ed0526e0800000000000000
+      internalID: -1863067575291805948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_44
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 564
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907c4f8b26fe559a0800000000000000
+      internalID: -6244822100990441719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_45
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 532
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d286c62a38c729290800000000000000
+      internalID: -7885103092764743635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_46
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 538
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0291913e7430eb40800000000000000
+      internalID: 5467427664229929487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_47
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 333
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144b4b7ac96ad600800000000000000
+      internalID: 493823427523331101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_48
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 407
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a4aa1e84127e20800000000000000
+      internalID: 3346760073654608180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_49
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 407
+        width: 128
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8bb30ae706ed530800000000000000
+      internalID: 3881646025810360512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_50
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 389
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c0b1c2a8b76fb0800000000000000
+      internalID: -4654548680690317237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_51
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 522
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a70e38c14c18c0800000000000000
+      internalID: -4027271638486112816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_52
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 162
+        width: 409
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212caf69c99b53220800000000000000
+      internalID: 2465080453254267410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_53
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 403
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4976cc2b761230120800000000000000
+      internalID: 2378781757446842260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_54
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 415
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a863b1061b0749ca0800000000000000
+      internalID: -6011055695508851062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_55
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 626
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7fc2e5abd315a0800000000000000
+      internalID: -6551651527372604412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_56
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 411
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d1d4a063f30f00800000000000000
+      internalID: 1081975931906675424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_57
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 425
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84149cadc3642b0800000000000000
+      internalID: -5600722176211597123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_58
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 433
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089b11cfce811b900800000000000000
+      internalID: 698366823339506048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_59
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 419
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542ee800ec776ef0800000000000000
+      internalID: -114985963810315176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_60
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 401
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6782fe3e4405f4a0800000000000000
+      internalID: -6560332548085217429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_61
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 435
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c163cb5f3fd7568a0800000000000000
+      internalID: -6312500815936604644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_62
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 387
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cd152ff1bfc1c00800000000000000
+      internalID: 872848542431042633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_63
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 385
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3f32d5e502711f0800000000000000
+      internalID: -1074354396442922080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_64
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 361
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c511eb6725410c0800000000000000
+      internalID: -4605965848944747469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_65
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 347
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37839081e4e2f7670800000000000000
+      internalID: 8538594331463334003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_66
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 339
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e355045b31ed8e0800000000000000
+      internalID: -1666873142891168250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_67
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 389
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc156dd06d9edf0800000000000000
+      internalID: -150353757621596995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_68
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 395
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5891aa88f3c0400800000000000000
+      internalID: 291677932074141148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_69
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 391
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aec2d40cd0968dc0800000000000000
+      internalID: -3637060374406967645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_70
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2f251ea9a9cee40800000000000000
+      internalID: 5687090419458044615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_71
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 383
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abedbc5b436a15230800000000000000
+      internalID: 3625861920328507066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_72
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 393
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e1479f1c57c6c70800000000000000
+      internalID: 8965670434162089528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 352
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7193f7789906c90800000000000000
+      internalID: -7178568998794487835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_74
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 373
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059a3fc7674abcaa0800000000000000
+      internalID: -6139632838180099760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_75
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 579
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd6120b970cabf0800000000000000
+      internalID: -311865911859029085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_76
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 379
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d664135d4070770800000000000000
+      internalID: 8576829329051643217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_77
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 379
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d87fd71fcba110800000000000000
+      internalID: 1273339021102731639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_78
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 350
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266555e89a84bba20800000000000000
+      internalID: 3079134663312496226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 353
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e49da549ff8eb0800000000000000
+      internalID: -4715276207173342883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_80
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 357
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee818fe87bf5441e0800000000000000
+      internalID: -2214539874777163538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 319
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071324e2196a9dda0800000000000000
+      internalID: -5919517092725247632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 321
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3e86dffecfc6d70800000000000000
+      internalID: 9037876659904635865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 232
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5461477e5c6de0800000000000000
+      internalID: -1338591122944664152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_84
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 307
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97009583cae25530800000000000000
+      internalID: 3842391557580785567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_85
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 264
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308da29f4927cca0800000000000000
+      internalID: -5996778957080526789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 226
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e644fa1db137400800000000000000
+      internalID: 320630585876049449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_87
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 152
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5d95c7633ff7330800000000000000
+      internalID: 3710952033316623791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 242
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76131e9102972b00800000000000000
+      internalID: 803771594153596539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_89
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 248
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8e6dccfc154b50800000000000000
+      internalID: 6576694702948388034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_90
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e386f5d6353c12bd0800000000000000
+      internalID: -2656627542087210946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_91
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 228
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfe2724969e4f780800000000000000
+      internalID: -8650032345976213561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_92
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 234
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d5c9a939f56950800000000000000
+      internalID: 6441828868080128650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_93
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 216
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d202073fd7d6d93a0800000000000000
+      internalID: -6657044286461173715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43554dd487a7af730800000000000000
+      internalID: 4033671073384125748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_95
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 194
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53da3f0d8b3e2b0800000000000000
+      internalID: -5556394307664136757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_96
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 218
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da1e28151309b460800000000000000
+      internalID: 7257835663619136216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 218
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23558438c0b530510800000000000000
+      internalID: 1514154009026909490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_98
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 205
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68628013401cedc0800000000000000
+      internalID: -3608491321204774803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_99
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 210
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848fddd9214dc0dc0800000000000000
+      internalID: -3671326419790727096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_100
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 192
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fdc631e05fd6ca0800000000000000
+      internalID: -6021887685920235758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_101
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 194
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9eeba33041811d0800000000000000
+      internalID: -3379929516238509573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_102
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 198
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265add753322898f0800000000000000
+      internalID: -533638951930583710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 182
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8457f86e7981bf370800000000000000
+      internalID: 8357300574203376968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_104
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 148
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881672766543f3580800000000000000
+      internalID: -8845293597429898872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_105
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c8eea583122900800000000000000
+      internalID: 658109960435583166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_106
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 93
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9466d8f4dd90f0800000000000000
+      internalID: -1108495768049378320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_107
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 136
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b24bf5ca7ee5a0800000000000000
+      internalID: -6490115022251706898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_108
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d82a302e1dd93f0800000000000000
+      internalID: -892326382495691491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_109
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 91
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef339f7834770f0800000000000000
+      internalID: -1119351731097698713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_110
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 120
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b3089e3ef9fc30800000000000000
+      internalID: 4393822456268436284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_111
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 116
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b117ee2a9774ef0800000000000000
+      internalID: -123996724037346533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_112
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b841c477fd96140800000000000000
+      internalID: 4713544188490451833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_113
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 110
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b97cf8baea381a0800000000000000
+      internalID: -6808406159779194092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_114
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 104
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6264ee3a3192ada90800000000000000
+      internalID: -7288467882614307290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 81
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc87c802fc5ce40800000000000000
+      internalID: 5676170644073009071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_116
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 83
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa463713bd4ed840800000000000000
+      internalID: 5250719647144495781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_117
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 71
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36372e81086b1c660800000000000000
+      internalID: 7404399923663369059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_118
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea04d5b5fc2f6d3c0800000000000000
+      internalID: -4335010618892533586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6aee6d3ba0bca40800000000000000
+      internalID: 5389413146600318638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_120
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 57
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4424878229c7c50800000000000000
+      internalID: 6664362251115447551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_121
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670cbc9d9566d1e70800000000000000
+      internalID: 9087532159195660406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_122
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 25
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf205b077d43b3370800000000000000
+      internalID: 8303288437901165307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_123
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03a42354c92c410800000000000000
+      internalID: 1495929847250825423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CemeterySpawnPropsSource_124
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb2bca4dedd1380800000000000000
+      internalID: -8998791475404554558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CemeterySpawnPropsSource_0: 8217051283318964499
+      CemeterySpawnPropsSource_1: -1836530294209570550
+      CemeterySpawnPropsSource_10: -743846093347730711
+      CemeterySpawnPropsSource_100: -6021887685920235758
+      CemeterySpawnPropsSource_101: -3379929516238509573
+      CemeterySpawnPropsSource_102: -533638951930583710
+      CemeterySpawnPropsSource_103: 8357300574203376968
+      CemeterySpawnPropsSource_104: -8845293597429898872
+      CemeterySpawnPropsSource_105: 658109960435583166
+      CemeterySpawnPropsSource_106: -1108495768049378320
+      CemeterySpawnPropsSource_107: -6490115022251706898
+      CemeterySpawnPropsSource_108: -892326382495691491
+      CemeterySpawnPropsSource_109: -1119351731097698713
+      CemeterySpawnPropsSource_11: -8710893950723801497
+      CemeterySpawnPropsSource_110: 4393822456268436284
+      CemeterySpawnPropsSource_111: -123996724037346533
+      CemeterySpawnPropsSource_112: 4713544188490451833
+      CemeterySpawnPropsSource_113: -6808406159779194092
+      CemeterySpawnPropsSource_114: -7288467882614307290
+      CemeterySpawnPropsSource_115: 5676170644073009071
+      CemeterySpawnPropsSource_116: 5250719647144495781
+      CemeterySpawnPropsSource_117: 7404399923663369059
+      CemeterySpawnPropsSource_118: -4335010618892533586
+      CemeterySpawnPropsSource_119: 5389413146600318638
+      CemeterySpawnPropsSource_12: -7239226358452799180
+      CemeterySpawnPropsSource_120: 6664362251115447551
+      CemeterySpawnPropsSource_121: 9087532159195660406
+      CemeterySpawnPropsSource_122: 8303288437901165307
+      CemeterySpawnPropsSource_123: 1495929847250825423
+      CemeterySpawnPropsSource_124: -8998791475404554558
+      CemeterySpawnPropsSource_13: 8757275047879677408
+      CemeterySpawnPropsSource_14: -5858778876637944879
+      CemeterySpawnPropsSource_15: 2925220450739030310
+      CemeterySpawnPropsSource_16: 7604041690243255404
+      CemeterySpawnPropsSource_17: -2988133381030469617
+      CemeterySpawnPropsSource_18: 802298446174876028
+      CemeterySpawnPropsSource_19: 4650249736780789386
+      CemeterySpawnPropsSource_2: -5186482514572324031
+      CemeterySpawnPropsSource_20: -6176206600684814880
+      CemeterySpawnPropsSource_21: -4314830253805265394
+      CemeterySpawnPropsSource_22: 6366339061576045982
+      CemeterySpawnPropsSource_23: -1019500950463241258
+      CemeterySpawnPropsSource_24: 4754988488914955113
+      CemeterySpawnPropsSource_25: 8279718681021212333
+      CemeterySpawnPropsSource_26: -8914914048761128652
+      CemeterySpawnPropsSource_27: -5779772692448223106
+      CemeterySpawnPropsSource_28: 8941513049970292677
+      CemeterySpawnPropsSource_29: 5675300954202564483
+      CemeterySpawnPropsSource_3: -4344834678256602473
+      CemeterySpawnPropsSource_30: -4888909961985251164
+      CemeterySpawnPropsSource_31: 2724686623850751710
+      CemeterySpawnPropsSource_32: -6691813779737198255
+      CemeterySpawnPropsSource_33: 7419238890463139798
+      CemeterySpawnPropsSource_34: -4849939909701936639
+      CemeterySpawnPropsSource_35: -1999525177725625588
+      CemeterySpawnPropsSource_36: 1221566013364357756
+      CemeterySpawnPropsSource_37: 1991301858456285117
+      CemeterySpawnPropsSource_38: 8307905201415708627
+      CemeterySpawnPropsSource_39: 5898898455443215739
+      CemeterySpawnPropsSource_4: 1463562298536460231
+      CemeterySpawnPropsSource_40: -3992257419300760703
+      CemeterySpawnPropsSource_41: -6135200843969482369
+      CemeterySpawnPropsSource_42: 3980641661727653925
+      CemeterySpawnPropsSource_43: -1863067575291805948
+      CemeterySpawnPropsSource_44: -6244822100990441719
+      CemeterySpawnPropsSource_45: -7885103092764743635
+      CemeterySpawnPropsSource_46: 5467427664229929487
+      CemeterySpawnPropsSource_47: 493823427523331101
+      CemeterySpawnPropsSource_48: 3346760073654608180
+      CemeterySpawnPropsSource_49: 3881646025810360512
+      CemeterySpawnPropsSource_5: -4910428236624365451
+      CemeterySpawnPropsSource_50: -4654548680690317237
+      CemeterySpawnPropsSource_51: -4027271638486112816
+      CemeterySpawnPropsSource_52: 2465080453254267410
+      CemeterySpawnPropsSource_53: 2378781757446842260
+      CemeterySpawnPropsSource_54: -6011055695508851062
+      CemeterySpawnPropsSource_55: -6551651527372604412
+      CemeterySpawnPropsSource_56: 1081975931906675424
+      CemeterySpawnPropsSource_57: -5600722176211597123
+      CemeterySpawnPropsSource_58: 698366823339506048
+      CemeterySpawnPropsSource_59: -114985963810315176
+      CemeterySpawnPropsSource_6: -6854540031916228141
+      CemeterySpawnPropsSource_60: -6560332548085217429
+      CemeterySpawnPropsSource_61: -6312500815936604644
+      CemeterySpawnPropsSource_62: 872848542431042633
+      CemeterySpawnPropsSource_63: -1074354396442922080
+      CemeterySpawnPropsSource_64: -4605965848944747469
+      CemeterySpawnPropsSource_65: 8538594331463334003
+      CemeterySpawnPropsSource_66: -1666873142891168250
+      CemeterySpawnPropsSource_67: -150353757621596995
+      CemeterySpawnPropsSource_68: 291677932074141148
+      CemeterySpawnPropsSource_69: -3637060374406967645
+      CemeterySpawnPropsSource_7: 9049916191177360529
+      CemeterySpawnPropsSource_70: 5687090419458044615
+      CemeterySpawnPropsSource_71: 3625861920328507066
+      CemeterySpawnPropsSource_72: 8965670434162089528
+      CemeterySpawnPropsSource_73: -7178568998794487835
+      CemeterySpawnPropsSource_74: -6139632838180099760
+      CemeterySpawnPropsSource_75: -311865911859029085
+      CemeterySpawnPropsSource_76: 8576829329051643217
+      CemeterySpawnPropsSource_77: 1273339021102731639
+      CemeterySpawnPropsSource_78: 3079134663312496226
+      CemeterySpawnPropsSource_79: -4715276207173342883
+      CemeterySpawnPropsSource_8: 3513408743718322699
+      CemeterySpawnPropsSource_80: -2214539874777163538
+      CemeterySpawnPropsSource_81: -5919517092725247632
+      CemeterySpawnPropsSource_82: 9037876659904635865
+      CemeterySpawnPropsSource_83: -1338591122944664152
+      CemeterySpawnPropsSource_84: 3842391557580785567
+      CemeterySpawnPropsSource_85: -5996778957080526789
+      CemeterySpawnPropsSource_86: 320630585876049449
+      CemeterySpawnPropsSource_87: 3710952033316623791
+      CemeterySpawnPropsSource_88: 803771594153596539
+      CemeterySpawnPropsSource_89: 6576694702948388034
+      CemeterySpawnPropsSource_9: 6073000269905063879
+      CemeterySpawnPropsSource_90: -2656627542087210946
+      CemeterySpawnPropsSource_91: -8650032345976213561
+      CemeterySpawnPropsSource_92: 6441828868080128650
+      CemeterySpawnPropsSource_93: -6657044286461173715
+      CemeterySpawnPropsSource_94: 4033671073384125748
+      CemeterySpawnPropsSource_95: -5556394307664136757
+      CemeterySpawnPropsSource_96: 7257835663619136216
+      CemeterySpawnPropsSource_97: 1514154009026909490
+      CemeterySpawnPropsSource_98: -3608491321204774803
+      CemeterySpawnPropsSource_99: -3671326419790727096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

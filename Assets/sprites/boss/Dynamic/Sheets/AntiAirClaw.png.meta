@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 7b0f7e288c66ede46833356ffa1ba3b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2835094029217948650
+    second: AntiAirClaw_0
+  - first:
+      213: 9178544974447485668
+    second: AntiAirClaw_1
+  - first:
+      213: 8017751689840869229
+    second: AntiAirClaw_2
+  - first:
+      213: 3052397317315351387
+    second: AntiAirClaw_3
+  - first:
+      213: 2719241872689695989
+    second: AntiAirClaw_4
+  - first:
+      213: 1480866186487779965
+    second: AntiAirClaw_5
+  - first:
+      213: 5060239695638524854
+    second: AntiAirClaw_6
+  - first:
+      213: 5406878048443037586
+    second: AntiAirClaw_7
+  - first:
+      213: -6164274961773819840
+    second: AntiAirClaw_8
+  - first:
+      213: 8388204518157974379
+    second: AntiAirClaw_9
+  - first:
+      213: 1244196239427141474
+    second: AntiAirClaw_10
+  - first:
+      213: -931847184340927586
+    second: AntiAirClaw_11
+  - first:
+      213: -8604411614604050886
+    second: AntiAirClaw_12
+  - first:
+      213: -6006870980772421107
+    second: AntiAirClaw_13
+  - first:
+      213: 2711161318244257399
+    second: AntiAirClaw_14
+  - first:
+      213: -1040369322523402482
+    second: AntiAirClaw_15
+  - first:
+      213: -7357897267078614400
+    second: AntiAirClaw_16
+  - first:
+      213: 5396315034593935854
+    second: AntiAirClaw_17
+  - first:
+      213: 24055950937532957
+    second: AntiAirClaw_18
+  - first:
+      213: 1120523728243567893
+    second: AntiAirClaw_00
+  - first:
+      213: -884254012248141672
+    second: AntiAirClaw_01
+  - first:
+      213: -6582348628067832758
+    second: AntiAirClaw_02
+  - first:
+      213: 2317755408219184231
+    second: AntiAirClaw_03
+  - first:
+      213: -1280188417514235027
+    second: AntiAirClaw_04
+  - first:
+      213: 2863466418381796640
+    second: AntiAirClaw_05
+  - first:
+      213: -2390895841092885462
+    second: AntiAirClaw_06
+  - first:
+      213: -3550400442644964277
+    second: AntiAirClaw_07
+  - first:
+      213: -3526494971891638798
+    second: AntiAirClaw_08
+  - first:
+      213: -5115765247119469948
+    second: AntiAirClaw_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AntiAirClaw_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51daa50e466ec8f00800000000000000
+      internalID: 1120523728243567893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8905cbc29af7ab3f0800000000000000
+      internalID: -884254012248141672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cac3c2cccc6a4a0800000000000000
+      internalID: -6582348628067832758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c152783425a2020800000000000000
+      internalID: 2317755408219184231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9e70ca6bdb3ee0800000000000000
+      internalID: -1280188417514235027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02538e549831db720800000000000000
+      internalID: 2863466418381796640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2423b866e4d1ded0800000000000000
+      internalID: -2390895841092885462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd1c5bb917abec0800000000000000
+      internalID: -3550400442644964277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd923ad18f5f0fc0800000000000000
+      internalID: -3526494971891638798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiAirClaw_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482d72bbc962109b0800000000000000
+      internalID: -5115765247119469948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AntiAirClaw_0: -2835094029217948650
+      AntiAirClaw_00: 1120523728243567893
+      AntiAirClaw_01: -884254012248141672
+      AntiAirClaw_02: -6582348628067832758
+      AntiAirClaw_03: 2317755408219184231
+      AntiAirClaw_04: -1280188417514235027
+      AntiAirClaw_05: 2863466418381796640
+      AntiAirClaw_06: -2390895841092885462
+      AntiAirClaw_07: -3550400442644964277
+      AntiAirClaw_08: -3526494971891638798
+      AntiAirClaw_09: -5115765247119469948
+      AntiAirClaw_1: 9178544974447485668
+      AntiAirClaw_10: 1244196239427141474
+      AntiAirClaw_11: -931847184340927586
+      AntiAirClaw_12: -8604411614604050886
+      AntiAirClaw_13: -6006870980772421107
+      AntiAirClaw_14: 2711161318244257399
+      AntiAirClaw_15: -1040369322523402482
+      AntiAirClaw_16: -7357897267078614400
+      AntiAirClaw_17: 5396315034593935854
+      AntiAirClaw_18: 24055950937532957
+      AntiAirClaw_2: 8017751689840869229
+      AntiAirClaw_3: 3052397317315351387
+      AntiAirClaw_4: 2719241872689695989
+      AntiAirClaw_5: 1480866186487779965
+      AntiAirClaw_6: 5060239695638524854
+      AntiAirClaw_7: 5406878048443037586
+      AntiAirClaw_8: -6164274961773819840
+      AntiAirClaw_9: 8388204518157974379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

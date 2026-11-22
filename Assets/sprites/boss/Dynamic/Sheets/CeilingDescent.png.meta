@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 5de911bde29d2884fa99ca9f06572106
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4331601791349954051
+    second: CeilingDescent_0
+  - first:
+      213: 2053540507367950376
+    second: CeilingDescent_1
+  - first:
+      213: 4203328204411347014
+    second: CeilingDescent_2
+  - first:
+      213: -6859544144953401497
+    second: CeilingDescent_3
+  - first:
+      213: -7735301963572426902
+    second: CeilingDescent_4
+  - first:
+      213: -8396199043934492397
+    second: CeilingDescent_5
+  - first:
+      213: -5931572440652918704
+    second: CeilingDescent_6
+  - first:
+      213: -7215024970133919206
+    second: CeilingDescent_7
+  - first:
+      213: -3676152715556796935
+    second: CeilingDescent_8
+  - first:
+      213: -1084455876237010279
+    second: CeilingDescent_9
+  - first:
+      213: 2611239076603760252
+    second: CeilingDescent_10
+  - first:
+      213: 5174390939481915407
+    second: CeilingDescent_11
+  - first:
+      213: -8200432856432195720
+    second: CeilingDescent_12
+  - first:
+      213: 3282421052705882633
+    second: CeilingDescent_13
+  - first:
+      213: 8836544140684076591
+    second: CeilingDescent_14
+  - first:
+      213: 4304804653632225551
+    second: CeilingDescent_15
+  - first:
+      213: -604458774453891907
+    second: CeilingDescent_16
+  - first:
+      213: 7592853082870514274
+    second: CeilingDescent_17
+  - first:
+      213: -6456859955321125957
+    second: CeilingDescent_18
+  - first:
+      213: 2429041766062121903
+    second: CeilingDescent_19
+  - first:
+      213: -7222357773907141565
+    second: CeilingDescent_20
+  - first:
+      213: -6272301921422042067
+    second: CeilingDescent_21
+  - first:
+      213: -7211815872126879382
+    second: CeilingDescent_22
+  - first:
+      213: -8513353196743912065
+    second: CeilingDescent_23
+  - first:
+      213: 5443516960995683285
+    second: CeilingDescent_24
+  - first:
+      213: 5506420939353237033
+    second: CeilingDescent_25
+  - first:
+      213: 3192851559564705091
+    second: CeilingDescent_26
+  - first:
+      213: 3091480449972421975
+    second: CeilingDescent_27
+  - first:
+      213: 4690380626804003655
+    second: CeilingDescent_28
+  - first:
+      213: 2402409419692552182
+    second: CeilingDescent_29
+  - first:
+      213: 6803765330726392121
+    second: CeilingDescent_00
+  - first:
+      213: -8182185978193348429
+    second: CeilingDescent_01
+  - first:
+      213: -4415472656962830169
+    second: CeilingDescent_02
+  - first:
+      213: 8797311519988705275
+    second: CeilingDescent_03
+  - first:
+      213: 327128494376798975
+    second: CeilingDescent_04
+  - first:
+      213: 8316721169962919971
+    second: CeilingDescent_05
+  - first:
+      213: 3421276776666894854
+    second: CeilingDescent_06
+  - first:
+      213: 2731842481679498335
+    second: CeilingDescent_07
+  - first:
+      213: 3258129065103509551
+    second: CeilingDescent_08
+  - first:
+      213: 662690928302229646
+    second: CeilingDescent_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CeilingDescent_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93190193584db6e50800000000000000
+      internalID: 6803765330726392121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b87a933439037e80800000000000000
+      internalID: -8182185978193348429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0c74e330719b2c0800000000000000
+      internalID: -4415472656962830169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e06f9734561a70800000000000000
+      internalID: 8797311519988705275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffacc37e1a13a8400800000000000000
+      internalID: 327128494376798975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3286c9717ddea6370800000000000000
+      internalID: 8316721169962919971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60216870a11da7f20800000000000000
+      internalID: 3421276776666894854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cf3de534479e520800000000000000
+      internalID: 2731842481679498335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ced55f13373d20800000000000000
+      internalID: 3258129065103509551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88045163e9523900800000000000000
+      internalID: 662690928302229646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e0690fa1cfc3420800000000000000
+      internalID: 2611239076603760252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingDescent_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00c1d4f4212fc740800000000000000
+      internalID: 5174390939481915407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CeilingDescent_0: 4331601791349954051
+      CeilingDescent_00: 6803765330726392121
+      CeilingDescent_01: -8182185978193348429
+      CeilingDescent_02: -4415472656962830169
+      CeilingDescent_03: 8797311519988705275
+      CeilingDescent_04: 327128494376798975
+      CeilingDescent_05: 8316721169962919971
+      CeilingDescent_06: 3421276776666894854
+      CeilingDescent_07: 2731842481679498335
+      CeilingDescent_08: 3258129065103509551
+      CeilingDescent_09: 662690928302229646
+      CeilingDescent_1: 2053540507367950376
+      CeilingDescent_10: 2611239076603760252
+      CeilingDescent_11: 5174390939481915407
+      CeilingDescent_12: -8200432856432195720
+      CeilingDescent_13: 3282421052705882633
+      CeilingDescent_14: 8836544140684076591
+      CeilingDescent_15: 4304804653632225551
+      CeilingDescent_16: -604458774453891907
+      CeilingDescent_17: 7592853082870514274
+      CeilingDescent_18: -6456859955321125957
+      CeilingDescent_19: 2429041766062121903
+      CeilingDescent_2: 4203328204411347014
+      CeilingDescent_20: -7222357773907141565
+      CeilingDescent_21: -6272301921422042067
+      CeilingDescent_22: -7211815872126879382
+      CeilingDescent_23: -8513353196743912065
+      CeilingDescent_24: 5443516960995683285
+      CeilingDescent_25: 5506420939353237033
+      CeilingDescent_26: 3192851559564705091
+      CeilingDescent_27: 3091480449972421975
+      CeilingDescent_28: 4690380626804003655
+      CeilingDescent_29: 2402409419692552182
+      CeilingDescent_3: -6859544144953401497
+      CeilingDescent_4: -7735301963572426902
+      CeilingDescent_5: -8396199043934492397
+      CeilingDescent_6: -5931572440652918704
+      CeilingDescent_7: -7215024970133919206
+      CeilingDescent_8: -3676152715556796935
+      CeilingDescent_9: -1084455876237010279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 93fe8598ef54f404ab2107d9930d77a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4313813107659894070
+    second: FalseOpening_0
+  - first:
+      213: -5536463679563000902
+    second: FalseOpening_1
+  - first:
+      213: 6448173266187403906
+    second: FalseOpening_2
+  - first:
+      213: -7727848061966132425
+    second: FalseOpening_3
+  - first:
+      213: -12343561445801609
+    second: FalseOpening_4
+  - first:
+      213: -3518035807922815032
+    second: FalseOpening_5
+  - first:
+      213: 4585035156894274493
+    second: FalseOpening_6
+  - first:
+      213: 5741873481306079924
+    second: FalseOpening_7
+  - first:
+      213: -3929657604887196854
+    second: FalseOpening_8
+  - first:
+      213: -1214449238828814576
+    second: FalseOpening_9
+  - first:
+      213: 8748621447829858964
+    second: FalseOpening_10
+  - first:
+      213: -3213975312014653699
+    second: FalseOpening_11
+  - first:
+      213: 8292971247683835510
+    second: FalseOpening_12
+  - first:
+      213: 806093343467660663
+    second: FalseOpening_13
+  - first:
+      213: 2699564321183785928
+    second: FalseOpening_14
+  - first:
+      213: -4367208623272135563
+    second: FalseOpening_15
+  - first:
+      213: -4080211730777555364
+    second: FalseOpening_16
+  - first:
+      213: 7556532527761386422
+    second: FalseOpening_17
+  - first:
+      213: -7030507587601160602
+    second: FalseOpening_18
+  - first:
+      213: -7093109322031471023
+    second: FalseOpening_19
+  - first:
+      213: 6987524993493041436
+    second: FalseOpening_00
+  - first:
+      213: 1456674497124348097
+    second: FalseOpening_01
+  - first:
+      213: 3710729179018093293
+    second: FalseOpening_02
+  - first:
+      213: 4298695493112895028
+    second: FalseOpening_03
+  - first:
+      213: -6402613758794417500
+    second: FalseOpening_04
+  - first:
+      213: -944140536130654635
+    second: FalseOpening_05
+  - first:
+      213: 6730530700964043541
+    second: FalseOpening_06
+  - first:
+      213: -3624192716645402432
+    second: FalseOpening_07
+  - first:
+      213: -1654360005344261671
+    second: FalseOpening_08
+  - first:
+      213: -2969270857386547444
+    second: FalseOpening_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FalseOpening_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c110158c5fca8f060800000000000000
+      internalID: 6987524993493041436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0b772ccb5273410800000000000000
+      internalID: 1456674497124348097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2ec0d27882f7330800000000000000
+      internalID: 3710729179018093293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436119886c808ab30800000000000000
+      internalID: 4298695493112895028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab70975b85527a0800000000000000
+      internalID: -6402613758794417500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea2e54f2db5e2f0800000000000000
+      internalID: -944140536130654635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b92dc3306a76d50800000000000000
+      internalID: 6730530700964043541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8face0de744bdc0800000000000000
+      internalID: -3624192716645402432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d987de17588a09e0800000000000000
+      internalID: -1654360005344261671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalseOpening_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c072e8713e70bc6d0800000000000000
+      internalID: -2969270857386547444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FalseOpening_0: 4313813107659894070
+      FalseOpening_00: 6987524993493041436
+      FalseOpening_01: 1456674497124348097
+      FalseOpening_02: 3710729179018093293
+      FalseOpening_03: 4298695493112895028
+      FalseOpening_04: -6402613758794417500
+      FalseOpening_05: -944140536130654635
+      FalseOpening_06: 6730530700964043541
+      FalseOpening_07: -3624192716645402432
+      FalseOpening_08: -1654360005344261671
+      FalseOpening_09: -2969270857386547444
+      FalseOpening_1: -5536463679563000902
+      FalseOpening_10: 8748621447829858964
+      FalseOpening_11: -3213975312014653699
+      FalseOpening_12: 8292971247683835510
+      FalseOpening_13: 806093343467660663
+      FalseOpening_14: 2699564321183785928
+      FalseOpening_15: -4367208623272135563
+      FalseOpening_16: -4080211730777555364
+      FalseOpening_17: 7556532527761386422
+      FalseOpening_18: -7030507587601160602
+      FalseOpening_19: -7093109322031471023
+      FalseOpening_2: 6448173266187403906
+      FalseOpening_3: -7727848061966132425
+      FalseOpening_4: -12343561445801609
+      FalseOpening_5: -3518035807922815032
+      FalseOpening_6: 4585035156894274493
+      FalseOpening_7: 5741873481306079924
+      FalseOpening_8: -3929657604887196854
+      FalseOpening_9: -1214449238828814576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

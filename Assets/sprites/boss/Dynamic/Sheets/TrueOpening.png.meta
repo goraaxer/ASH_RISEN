@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 46d27bc467b1a8041939fd03b081c728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -484359700727224958
+    second: TrueOpening_0
+  - first:
+      213: -7793932304528267189
+    second: TrueOpening_1
+  - first:
+      213: -3239227799308988934
+    second: TrueOpening_2
+  - first:
+      213: 1400811241705159147
+    second: TrueOpening_3
+  - first:
+      213: -6119407774450674940
+    second: TrueOpening_4
+  - first:
+      213: 6440026186137431063
+    second: TrueOpening_5
+  - first:
+      213: -9049451857295353551
+    second: TrueOpening_6
+  - first:
+      213: -5714726660856362025
+    second: TrueOpening_7
+  - first:
+      213: -52222731893350392
+    second: TrueOpening_8
+  - first:
+      213: 2480093162467762275
+    second: TrueOpening_9
+  - first:
+      213: 886530402820776343
+    second: TrueOpening_10
+  - first:
+      213: -1915732528274894685
+    second: TrueOpening_11
+  - first:
+      213: 5294633565695126128
+    second: TrueOpening_12
+  - first:
+      213: 7282823113987690270
+    second: TrueOpening_13
+  - first:
+      213: 8557150239767902948
+    second: TrueOpening_14
+  - first:
+      213: -6380696931210134275
+    second: TrueOpening_15
+  - first:
+      213: -5087864875149622721
+    second: TrueOpening_16
+  - first:
+      213: -4973251284343184782
+    second: TrueOpening_17
+  - first:
+      213: 1065017226423537644
+    second: TrueOpening_18
+  - first:
+      213: -3471916218502044692
+    second: TrueOpening_19
+  - first:
+      213: 7413035956963705462
+    second: TrueOpening_00
+  - first:
+      213: -8849436353372763987
+    second: TrueOpening_01
+  - first:
+      213: 3120696723872943475
+    second: TrueOpening_02
+  - first:
+      213: -5421065316922595091
+    second: TrueOpening_03
+  - first:
+      213: 6302314515975789693
+    second: TrueOpening_04
+  - first:
+      213: 3655306962094908958
+    second: TrueOpening_05
+  - first:
+      213: 8128403799442459513
+    second: TrueOpening_06
+  - first:
+      213: 4612964251567904574
+    second: TrueOpening_07
+  - first:
+      213: -8254150042675848390
+    second: TrueOpening_08
+  - first:
+      213: 3207751150023825982
+    second: TrueOpening_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrueOpening_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672050a4de460e660800000000000000
+      internalID: 7413035956963705462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrueOpening_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c9ced58c703580800000000000000
+      internalID: -8849436353372763987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrueOpening_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d0c2ed221fe4b20800000000000000
+      internalID: 3120696723872943475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrueOpening_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de863a8f0d184c4b0800000000000000
+      internalID: -5421065316922595091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrueOpening_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c568349a1567750800000000000000
+      internalID: 6302314515975789693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrueOpening_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16edacb0524ab230800000000000000
+      internalID: 3655306962094908958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrueOpening_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b04b08034edc070800000000000000
+      internalID: 8128403799442459513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TrueOpening_0: -484359700727224958
+      TrueOpening_00: 7413035956963705462
+      TrueOpening_01: -8849436353372763987
+      TrueOpening_02: 3120696723872943475
+      TrueOpening_03: -5421065316922595091
+      TrueOpening_04: 6302314515975789693
+      TrueOpening_05: 3655306962094908958
+      TrueOpening_06: 8128403799442459513
+      TrueOpening_07: 4612964251567904574
+      TrueOpening_08: -8254150042675848390
+      TrueOpening_09: 3207751150023825982
+      TrueOpening_1: -7793932304528267189
+      TrueOpening_10: 886530402820776343
+      TrueOpening_11: -1915732528274894685
+      TrueOpening_12: 5294633565695126128
+      TrueOpening_13: 7282823113987690270
+      TrueOpening_14: 8557150239767902948
+      TrueOpening_15: -6380696931210134275
+      TrueOpening_16: -5087864875149622721
+      TrueOpening_17: -4973251284343184782
+      TrueOpening_18: 1065017226423537644
+      TrueOpening_19: -3471916218502044692
+      TrueOpening_2: -3239227799308988934
+      TrueOpening_3: 1400811241705159147
+      TrueOpening_4: -6119407774450674940
+      TrueOpening_5: 6440026186137431063
+      TrueOpening_6: -9049451857295353551
+      TrueOpening_7: -5714726660856362025
+      TrueOpening_8: -52222731893350392
+      TrueOpening_9: 2480093162467762275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

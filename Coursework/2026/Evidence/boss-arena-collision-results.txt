@@ -1,0 +1,11 @@
+PASS floor is one flat collider across the arena
+PASS heroine has a rounded continuous collision shape
+PASS both arena boundaries remain solid
+PASS heroine walks across every floor seam to the east
+PASS heroine walks back across the entire floor
+PASS right wall contains the dash
+PASS heroine can move away from the right wall
+PASS left wall contains the dash
+PASS heroine can move away from the left wall
+PASS jump carries the heroine cleanly across the arena
+TOTAL 10 passed, 0 failed

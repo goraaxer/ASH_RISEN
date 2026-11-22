@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: db44038069924d549888bb5375f3e2fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8008633978124998693
+    second: AshCracks_0
+  - first:
+      213: -8681336922499077625
+    second: AshCracks_1
+  - first:
+      213: 8427192632447270723
+    second: AshCracks_2
+  - first:
+      213: 3533371929240147639
+    second: AshCracks_3
+  - first:
+      213: 3112371389901416121
+    second: AshCracks_4
+  - first:
+      213: -6732246390811175007
+    second: AshCracks_5
+  - first:
+      213: -1551530692822527034
+    second: AshCracks_6
+  - first:
+      213: -1772530032183987683
+    second: AshCracks_7
+  - first:
+      213: -4968999217700647850
+    second: AshCracks_8
+  - first:
+      213: -6510496518979975452
+    second: AshCracks_9
+  - first:
+      213: -2545062863368459886
+    second: AshCracks_10
+  - first:
+      213: 4470127943759567392
+    second: AshCracks_11
+  - first:
+      213: 1711458792457009236
+    second: AshCracks_12
+  - first:
+      213: -1657073104349985735
+    second: AshCracks_13
+  - first:
+      213: -7549352795957211514
+    second: AshCracks_14
+  - first:
+      213: -2028877550841351395
+    second: AshCracks_15
+  - first:
+      213: 1809415215538030753
+    second: AshCracks_16
+  - first:
+      213: -3496673516967013131
+    second: AshCracks_17
+  - first:
+      213: 4641435170810412226
+    second: AshCracks_18
+  - first:
+      213: 6558028760479122235
+    second: AshCracks_19
+  - first:
+      213: -818305540469448242
+    second: AshCracks_20
+  - first:
+      213: 7581858026048993998
+    second: AshCracks_21
+  - first:
+      213: -4451053054088788195
+    second: AshCracks_22
+  - first:
+      213: 1714089987276106987
+    second: AshCracks_23
+  - first:
+      213: 5347688685632249934
+    second: AshCracks_24
+  - first:
+      213: 1132307671761009431
+    second: AshCracks_25
+  - first:
+      213: 7784725952614659885
+    second: AshCracks_26
+  - first:
+      213: 8428156755008550712
+    second: AshCracks_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AshCracks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528934aeb22642f60800000000000000
+      internalID: 8008633978124998693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 452
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa5fe8012b58780800000000000000
+      internalID: -8681336922499077625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 453
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffececc0763f470800000000000000
+      internalID: 8427192632447270723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 456
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b612bd8c0f090130800000000000000
+      internalID: 3533371929240147639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 453
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a9200a4d513b20800000000000000
+      internalID: 3112371389901416121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 454
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a75b4793914292a0800000000000000
+      internalID: -6732246390811175007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 446
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c392342e0bd77ae0800000000000000
+      internalID: -1551530692822527034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 449
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1236f5b355b667e0800000000000000
+      internalID: -1772530032183987683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 442
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c42c3d9819a0bb0800000000000000
+      internalID: -4968999217700647850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 436
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e608caf8e116a5a0800000000000000
+      internalID: -6510496518979975452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 455
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29962e16fce1eacd0800000000000000
+      internalID: -2545062863368459886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a165c5ea5190e30800000000000000
+      internalID: 4470127943759567392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 401
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587e1c34b250c710800000000000000
+      internalID: 1711458792457009236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 376
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9348d588ac4e009e0800000000000000
+      internalID: -1657073104349985735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 337
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e4ed851af4b3790800000000000000
+      internalID: -7549352795957211514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d133651fd9af7d3e0800000000000000
+      internalID: -2028877550841351395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 292
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c4554d855c1910800000000000000
+      internalID: 1809415215538030753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f45aa566f1597fc0800000000000000
+      internalID: -3496673516967013131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 193
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccb82c42b0b96040800000000000000
+      internalID: 4641435170810412226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 128
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334727696cc20b50800000000000000
+      internalID: 6558028760479122235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 103
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1a59e427bc4a4f0800000000000000
+      internalID: -818305540469448242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca381c44bb283960800000000000000
+      internalID: 7581858026048993998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ce9a74deaa32c0800000000000000
+      internalID: -4451053054088788195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec65a403cba9c710800000000000000
+      internalID: 1714089987276106987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e406c7cb68ec63a40800000000000000
+      internalID: 5347688685632249934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bb3c704d3c6bf00800000000000000
+      internalID: 1132307671761009431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d277c573207e80c60800000000000000
+      internalID: 7784725952614659885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AshCracks_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837f7951ae3d6f470800000000000000
+      internalID: 8428156755008550712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AshCracks_0: 8008633978124998693
+      AshCracks_1: -8681336922499077625
+      AshCracks_10: -2545062863368459886
+      AshCracks_11: 4470127943759567392
+      AshCracks_12: 1711458792457009236
+      AshCracks_13: -1657073104349985735
+      AshCracks_14: -7549352795957211514
+      AshCracks_15: -2028877550841351395
+      AshCracks_16: 1809415215538030753
+      AshCracks_17: -3496673516967013131
+      AshCracks_18: 4641435170810412226
+      AshCracks_19: 6558028760479122235
+      AshCracks_2: 8427192632447270723
+      AshCracks_20: -818305540469448242
+      AshCracks_21: 7581858026048993998
+      AshCracks_22: -4451053054088788195
+      AshCracks_23: 1714089987276106987
+      AshCracks_24: 5347688685632249934
+      AshCracks_25: 1132307671761009431
+      AshCracks_26: 7784725952614659885
+      AshCracks_27: 8428156755008550712
+      AshCracks_3: 3533371929240147639
+      AshCracks_4: 3112371389901416121
+      AshCracks_5: -6732246390811175007
+      AshCracks_6: -1551530692822527034
+      AshCracks_7: -1772530032183987683
+      AshCracks_8: -4968999217700647850
+      AshCracks_9: -6510496518979975452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

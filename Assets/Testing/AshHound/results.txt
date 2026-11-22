@@ -1,0 +1,9 @@
+PASS Two selected hounds placed in village
+PASS Detects and pursues heroine
+PASS Returns to its post
+PASS Timed bite deals actual HP damage
+PASS No bite damage above low hitbox
+PASS Existing heroine sword damages dog hurtbox
+PASS Death uses authored ash frames and disables combat
+PASS Ash dissolution leaves no invisible body
+PASS Lantern/respawn hook restores dog

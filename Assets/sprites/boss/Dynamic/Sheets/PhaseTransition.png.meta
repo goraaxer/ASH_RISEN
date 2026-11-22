@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 78813157998d6774facbfdca057d4f6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8780685119226220285
+    second: PhaseTransition_0
+  - first:
+      213: -3224466793032625381
+    second: PhaseTransition_1
+  - first:
+      213: 2480335320518317568
+    second: PhaseTransition_2
+  - first:
+      213: -3566187018952726286
+    second: PhaseTransition_3
+  - first:
+      213: 8738864644097797109
+    second: PhaseTransition_4
+  - first:
+      213: 2497948323835485072
+    second: PhaseTransition_5
+  - first:
+      213: 6624068899988072008
+    second: PhaseTransition_6
+  - first:
+      213: 6588491555083572340
+    second: PhaseTransition_7
+  - first:
+      213: 5154112270592768301
+    second: PhaseTransition_8
+  - first:
+      213: 773403972222780801
+    second: PhaseTransition_9
+  - first:
+      213: -2153138848654535323
+    second: PhaseTransition_10
+  - first:
+      213: 9020371336094445589
+    second: PhaseTransition_11
+  - first:
+      213: 1083462123188041923
+    second: PhaseTransition_12
+  - first:
+      213: 3700826901939373086
+    second: PhaseTransition_13
+  - first:
+      213: -6485595856763594905
+    second: PhaseTransition_14
+  - first:
+      213: -1635655368758934609
+    second: PhaseTransition_15
+  - first:
+      213: 7571283997164883944
+    second: PhaseTransition_16
+  - first:
+      213: 506712174225082120
+    second: PhaseTransition_17
+  - first:
+      213: 123767492607462639
+    second: PhaseTransition_18
+  - first:
+      213: -4686212588819917626
+    second: PhaseTransition_19
+  - first:
+      213: 6658050086324379989
+    second: PhaseTransition_20
+  - first:
+      213: -6841164265418455532
+    second: PhaseTransition_21
+  - first:
+      213: 189777277923246311
+    second: PhaseTransition_22
+  - first:
+      213: -8285750972734319607
+    second: PhaseTransition_23
+  - first:
+      213: 6587390628409418901
+    second: PhaseTransition_24
+  - first:
+      213: -636963458944528047
+    second: PhaseTransition_25
+  - first:
+      213: 5183060985905177596
+    second: PhaseTransition_26
+  - first:
+      213: 2891209377197352149
+    second: PhaseTransition_27
+  - first:
+      213: -6948639961248258101
+    second: PhaseTransition_28
+  - first:
+      213: 5938733674914794678
+    second: PhaseTransition_29
+  - first:
+      213: 1364918041466966969
+    second: PhaseTransition_30
+  - first:
+      213: -2549621919321445499
+    second: PhaseTransition_31
+  - first:
+      213: 8673889348410817374
+    second: PhaseTransition_32
+  - first:
+      213: 5995429662188717262
+    second: PhaseTransition_33
+  - first:
+      213: 7644555542164373078
+    second: PhaseTransition_00
+  - first:
+      213: -7022252974212885642
+    second: PhaseTransition_01
+  - first:
+      213: -4971567918582901353
+    second: PhaseTransition_02
+  - first:
+      213: 5933478826681821533
+    second: PhaseTransition_03
+  - first:
+      213: -1806324161366846179
+    second: PhaseTransition_04
+  - first:
+      213: -3213593760310225888
+    second: PhaseTransition_05
+  - first:
+      213: 8677045370684654134
+    second: PhaseTransition_06
+  - first:
+      213: 5293905207871946113
+    second: PhaseTransition_07
+  - first:
+      213: 8129200205368262899
+    second: PhaseTransition_08
+  - first:
+      213: -8749973020098445456
+    second: PhaseTransition_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PhaseTransition_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e737453cae61a60800000000000000
+      internalID: 7644555542164373078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735c1d1022fb8e90800000000000000
+      internalID: -7022252974212885642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795532c8151710bb0800000000000000
+      internalID: -4971567918582901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59eba25e83f75250800000000000000
+      internalID: 5933478826681821533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15168cdeb5aee6e0800000000000000
+      internalID: -1806324161366846179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0241c4850850763d0800000000000000
+      internalID: -3213593760310225888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6324b9baace0b6870800000000000000
+      internalID: 8677045370684654134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3ccdfcbab77940800000000000000
+      internalID: 5293905207871946113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f002053488b0d070800000000000000
+      internalID: 8129200205368262899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb7c6c5e9d19680800000000000000
+      internalID: -8749973020098445456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhaseTransition_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5655addff938e12e0800000000000000
+      internalID: -2153138848654535323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PhaseTransition_0: 8780685119226220285
+      PhaseTransition_00: 7644555542164373078
+      PhaseTransition_01: -7022252974212885642
+      PhaseTransition_02: -4971567918582901353
+      PhaseTransition_03: 5933478826681821533
+      PhaseTransition_04: -1806324161366846179
+      PhaseTransition_05: -3213593760310225888
+      PhaseTransition_06: 8677045370684654134
+      PhaseTransition_07: 5293905207871946113
+      PhaseTransition_08: 8129200205368262899
+      PhaseTransition_09: -8749973020098445456
+      PhaseTransition_1: -3224466793032625381
+      PhaseTransition_10: -2153138848654535323
+      PhaseTransition_11: 9020371336094445589
+      PhaseTransition_12: 1083462123188041923
+      PhaseTransition_13: 3700826901939373086
+      PhaseTransition_14: -6485595856763594905
+      PhaseTransition_15: -1635655368758934609
+      PhaseTransition_16: 7571283997164883944
+      PhaseTransition_17: 506712174225082120
+      PhaseTransition_18: 123767492607462639
+      PhaseTransition_19: -4686212588819917626
+      PhaseTransition_2: 2480335320518317568
+      PhaseTransition_20: 6658050086324379989
+      PhaseTransition_21: -6841164265418455532
+      PhaseTransition_22: 189777277923246311
+      PhaseTransition_23: -8285750972734319607
+      PhaseTransition_24: 6587390628409418901
+      PhaseTransition_25: -636963458944528047
+      PhaseTransition_26: 5183060985905177596
+      PhaseTransition_27: 2891209377197352149
+      PhaseTransition_28: -6948639961248258101
+      PhaseTransition_29: 5938733674914794678
+      PhaseTransition_3: -3566187018952726286
+      PhaseTransition_30: 1364918041466966969
+      PhaseTransition_31: -2549621919321445499
+      PhaseTransition_32: 8673889348410817374
+      PhaseTransition_33: 5995429662188717262
+      PhaseTransition_4: 8738864644097797109
+      PhaseTransition_5: 2497948323835485072
+      PhaseTransition_6: 6624068899988072008
+      PhaseTransition_7: 6588491555083572340
+      PhaseTransition_8: 5154112270592768301
+      PhaseTransition_9: 773403972222780801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

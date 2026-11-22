@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 047a21f12a594f04bbf0d8cdbccdeb21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2130522309677304110
+    second: WendigoAntlerRush_0
+  - first:
+      213: 2655439235316962070
+    second: WendigoAntlerRush_1
+  - first:
+      213: 6668740644876186363
+    second: WendigoAntlerRush_2
+  - first:
+      213: -9173516685303887046
+    second: WendigoAntlerRush_3
+  - first:
+      213: -5723047199742994465
+    second: WendigoAntlerRush_4
+  - first:
+      213: 5121874244768829280
+    second: WendigoAntlerRush_5
+  - first:
+      213: 3251595512884594808
+    second: WendigoAntlerRush_6
+  - first:
+      213: 2891107582647544074
+    second: WendigoAntlerRush_7
+  - first:
+      213: 6791345391528138765
+    second: WendigoAntlerRush_8
+  - first:
+      213: -2872346655350028867
+    second: WendigoAntlerRush_9
+  - first:
+      213: -1295836866493820336
+    second: WendigoAntlerRush_10
+  - first:
+      213: 6180616718644377022
+    second: WendigoAntlerRush_00
+  - first:
+      213: 7435296379687219095
+    second: WendigoAntlerRush_01
+  - first:
+      213: 7427789633600573372
+    second: WendigoAntlerRush_02
+  - first:
+      213: 1609522969874618025
+    second: WendigoAntlerRush_03
+  - first:
+      213: 9005110835655762333
+    second: WendigoAntlerRush_04
+  - first:
+      213: 7531136378759633743
+    second: WendigoAntlerRush_05
+  - first:
+      213: 7321407628090557995
+    second: WendigoAntlerRush_06
+  - first:
+      213: 7458336088396738709
+    second: WendigoAntlerRush_07
+  - first:
+      213: 4555306379317360357
+    second: WendigoAntlerRush_08
+  - first:
+      213: -6388698409564362383
+    second: WendigoAntlerRush_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WendigoAntlerRush_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb573a7c826f5c550800000000000000
+      internalID: 6180616718644377022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f2107d9aa7f2760800000000000000
+      internalID: 7435296379687219095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf4711515fc41760800000000000000
+      internalID: 7427789633600573372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6553d0d9c265610800000000000000
+      internalID: 1609522969874618025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91684a089498fc70800000000000000
+      internalID: 9005110835655762333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5df282a8f38860800000000000000
+      internalID: 7531136378759633743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264c20827dda9560800000000000000
+      internalID: 7321407628090557995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5903d5c0825518760800000000000000
+      internalID: 7458336088396738709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e638465403b73f30800000000000000
+      internalID: 4555306379317360357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17920d035a8c657a0800000000000000
+      internalID: -6388698409564362383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoAntlerRush_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d7cd4c33440ee0800000000000000
+      internalID: -1295836866493820336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WendigoAntlerRush_0: -2130522309677304110
+      WendigoAntlerRush_00: 6180616718644377022
+      WendigoAntlerRush_01: 7435296379687219095
+      WendigoAntlerRush_02: 7427789633600573372
+      WendigoAntlerRush_03: 1609522969874618025
+      WendigoAntlerRush_04: 9005110835655762333
+      WendigoAntlerRush_05: 7531136378759633743
+      WendigoAntlerRush_06: 7321407628090557995
+      WendigoAntlerRush_07: 7458336088396738709
+      WendigoAntlerRush_08: 4555306379317360357
+      WendigoAntlerRush_09: -6388698409564362383
+      WendigoAntlerRush_1: 2655439235316962070
+      WendigoAntlerRush_10: -1295836866493820336
+      WendigoAntlerRush_2: 6668740644876186363
+      WendigoAntlerRush_3: -9173516685303887046
+      WendigoAntlerRush_4: -5723047199742994465
+      WendigoAntlerRush_5: 5121874244768829280
+      WendigoAntlerRush_6: 3251595512884594808
+      WendigoAntlerRush_7: 2891107582647544074
+      WendigoAntlerRush_8: 6791345391528138765
+      WendigoAntlerRush_9: -2872346655350028867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

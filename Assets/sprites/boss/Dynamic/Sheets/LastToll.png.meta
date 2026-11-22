@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 03970e4fc1296df4c8f124e33640af1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4570691218374971959
+    second: LastToll_0
+  - first:
+      213: 1015763294745795147
+    second: LastToll_1
+  - first:
+      213: -3640211370792531298
+    second: LastToll_2
+  - first:
+      213: 954415203395064468
+    second: LastToll_3
+  - first:
+      213: 6743986393060941605
+    second: LastToll_4
+  - first:
+      213: -237623848160911263
+    second: LastToll_5
+  - first:
+      213: -4519801219294071910
+    second: LastToll_6
+  - first:
+      213: -4780583896662839660
+    second: LastToll_7
+  - first:
+      213: -1326982624487453890
+    second: LastToll_8
+  - first:
+      213: 7124008886002218685
+    second: LastToll_9
+  - first:
+      213: -1065664212351195896
+    second: LastToll_10
+  - first:
+      213: -3071200052067109493
+    second: LastToll_11
+  - first:
+      213: 8448347955008181873
+    second: LastToll_12
+  - first:
+      213: 2955067969898593016
+    second: LastToll_13
+  - first:
+      213: -6895276847613501059
+    second: LastToll_14
+  - first:
+      213: -3574736985904032420
+    second: LastToll_15
+  - first:
+      213: 9015016022678586724
+    second: LastToll_16
+  - first:
+      213: -6833550227679163830
+    second: LastToll_17
+  - first:
+      213: 2234634995608106252
+    second: LastToll_18
+  - first:
+      213: 9107829555835781419
+    second: LastToll_19
+  - first:
+      213: 2551042690151307754
+    second: LastToll_20
+  - first:
+      213: 7561927428244920904
+    second: LastToll_21
+  - first:
+      213: 7342541472085376089
+    second: LastToll_22
+  - first:
+      213: 8163965225231258010
+    second: LastToll_23
+  - first:
+      213: -3918184805092698340
+    second: LastToll_24
+  - first:
+      213: -2988099082187262170
+    second: LastToll_25
+  - first:
+      213: -8124294488799956669
+    second: LastToll_26
+  - first:
+      213: -4536840394172710392
+    second: LastToll_27
+  - first:
+      213: 1265733398168343071
+    second: LastToll_28
+  - first:
+      213: 5355679738146740097
+    second: LastToll_29
+  - first:
+      213: 7478993700013176851
+    second: LastToll_30
+  - first:
+      213: -5490245264299774258
+    second: LastToll_31
+  - first:
+      213: -5513641197214145457
+    second: LastToll_32
+  - first:
+      213: 8916098650263124826
+    second: LastToll_33
+  - first:
+      213: -6828733557344066636
+    second: LastToll_34
+  - first:
+      213: -1850811031125107511
+    second: LastToll_35
+  - first:
+      213: -739061619837876030
+    second: LastToll_36
+  - first:
+      213: -283900009702669560
+    second: LastToll_37
+  - first:
+      213: 820540915744172124
+    second: LastToll_38
+  - first:
+      213: -8988978190223835614
+    second: LastToll_39
+  - first:
+      213: -2805074792916640948
+    second: LastToll_40
+  - first:
+      213: -7422801115673229771
+    second: LastToll_41
+  - first:
+      213: 4762678574780303290
+    second: LastToll_00
+  - first:
+      213: 770991066031118042
+    second: LastToll_01
+  - first:
+      213: -9070101313987351488
+    second: LastToll_02
+  - first:
+      213: -1258558440207314207
+    second: LastToll_03
+  - first:
+      213: -8678419383066217872
+    second: LastToll_04
+  - first:
+      213: -4655484216172691231
+    second: LastToll_05
+  - first:
+      213: -5404007403278618663
+    second: LastToll_06
+  - first:
+      213: -5751342440892096062
+    second: LastToll_07
+  - first:
+      213: -5093629587507521159
+    second: LastToll_08
+  - first:
+      213: 4388168147191628841
+    second: LastToll_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LastToll_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7c4251eee681240800000000000000
+      internalID: 4762678574780303290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d8c72a4c13ba00800000000000000
+      internalID: 770991066031118042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ceafe09e6802280800000000000000
+      internalID: -9070101313987351488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e29f5a44c3b88ee0800000000000000
+      internalID: -1258558440207314207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07239742d8f009780800000000000000
+      internalID: -8678419383066217872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c69d65c5646fb0800000000000000
+      internalID: -4655484216172691231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df2ffbf5eb1105b0800000000000000
+      internalID: -5404007403278618663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1affc95802f20b0800000000000000
+      internalID: -5751342440892096062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d13b90eacf49b0800000000000000
+      internalID: -5093629587507521159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248a0c2ea7e5ec30800000000000000
+      internalID: 4388168147191628841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805e5f48b000631f0800000000000000
+      internalID: -1065664212351195896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85f06613d7e065d0800000000000000
+      internalID: -3071200052067109493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176192d24bf8e3570800000000000000
+      internalID: 8448347955008181873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab0f879a2820920800000000000000
+      internalID: 2955067969898593016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a5066d3e0f40a0800000000000000
+      internalID: -6895276847613501059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastToll_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555dbda6abf36ec0800000000000000
+      internalID: -3574736985904032420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LastToll_0: 4570691218374971959
+      LastToll_00: 4762678574780303290
+      LastToll_01: 770991066031118042
+      LastToll_02: -9070101313987351488
+      LastToll_03: -1258558440207314207
+      LastToll_04: -8678419383066217872
+      LastToll_05: -4655484216172691231
+      LastToll_06: -5404007403278618663
+      LastToll_07: -5751342440892096062
+      LastToll_08: -5093629587507521159
+      LastToll_09: 4388168147191628841
+      LastToll_1: 1015763294745795147
+      LastToll_10: -1065664212351195896
+      LastToll_11: -3071200052067109493
+      LastToll_12: 8448347955008181873
+      LastToll_13: 2955067969898593016
+      LastToll_14: -6895276847613501059
+      LastToll_15: -3574736985904032420
+      LastToll_16: 9015016022678586724
+      LastToll_17: -6833550227679163830
+      LastToll_18: 2234634995608106252
+      LastToll_19: 9107829555835781419
+      LastToll_2: -3640211370792531298
+      LastToll_20: 2551042690151307754
+      LastToll_21: 7561927428244920904
+      LastToll_22: 7342541472085376089
+      LastToll_23: 8163965225231258010
+      LastToll_24: -3918184805092698340
+      LastToll_25: -2988099082187262170
+      LastToll_26: -8124294488799956669
+      LastToll_27: -4536840394172710392
+      LastToll_28: 1265733398168343071
+      LastToll_29: 5355679738146740097
+      LastToll_3: 954415203395064468
+      LastToll_30: 7478993700013176851
+      LastToll_31: -5490245264299774258
+      LastToll_32: -5513641197214145457
+      LastToll_33: 8916098650263124826
+      LastToll_34: -6828733557344066636
+      LastToll_35: -1850811031125107511
+      LastToll_36: -739061619837876030
+      LastToll_37: -283900009702669560
+      LastToll_38: 820540915744172124
+      LastToll_39: -8988978190223835614
+      LastToll_4: 6743986393060941605
+      LastToll_40: -2805074792916640948
+      LastToll_41: -7422801115673229771
+      LastToll_5: -237623848160911263
+      LastToll_6: -4519801219294071910
+      LastToll_7: -4780583896662839660
+      LastToll_8: -1326982624487453890
+      LastToll_9: 7124008886002218685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+World ambience sources — CC0 1.0
+
+OutsideFieldRecording.ogg: "AMB Outside 1" by Kresiek The Furry.
+https://opengameart.org/content/amb-outside-1
+
+GraveyardWind.wav, VillageWind.wav: project-generated low background drones.
+
+OutdoorWind.ogg, NightInsects.ogg: SpritePilot ambient loops.
+https://spritepilot.com/free-game-assets/sound-effects/ambient
+
+Crow.ogg: SpritePilot "Bird" (crow) sound.
+https://spritepilot.com/free-game-assets/sound-effects/creatures
+
+WoodCreak.ogg: SpritePilot "Chest open" wood creak.
+https://spritepilot.com/free-game-assets/sound-effects
+
+Each source page labels the asset CC0. The game plays the loops at restrained
+levels and schedules the crow and wood creak at varied intervals.

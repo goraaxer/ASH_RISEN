@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 856f9bb3bf572a342b8a60a6aa6803dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4397525526322252171
+    second: WendigoDeath_0
+  - first:
+      213: 8423888435630441363
+    second: WendigoDeath_1
+  - first:
+      213: -1540256397273533015
+    second: WendigoDeath_2
+  - first:
+      213: -3031390443945533081
+    second: WendigoDeath_3
+  - first:
+      213: 403920475841033469
+    second: WendigoDeath_4
+  - first:
+      213: 7783028741756314737
+    second: WendigoDeath_5
+  - first:
+      213: 5372315839306445748
+    second: WendigoDeath_6
+  - first:
+      213: -5091796901467832241
+    second: WendigoDeath_7
+  - first:
+      213: 143134564860227802
+    second: WendigoDeath_8
+  - first:
+      213: -4259381102200337113
+    second: WendigoDeath_9
+  - first:
+      213: -8702261471136732860
+    second: WendigoDeath_10
+  - first:
+      213: 516112801149127711
+    second: WendigoDeath_11
+  - first:
+      213: -6760494477877293294
+    second: WendigoDeath_12
+  - first:
+      213: 2757737558738532097
+    second: WendigoDeath_13
+  - first:
+      213: -322933020334247638
+    second: WendigoDeath_14
+  - first:
+      213: -8471011496440290212
+    second: WendigoDeath_15
+  - first:
+      213: -6058861986950160556
+    second: WendigoDeath_16
+  - first:
+      213: -3965441951044958293
+    second: WendigoDeath_17
+  - first:
+      213: -502797146990257610
+    second: WendigoDeath_18
+  - first:
+      213: -4464445626087277606
+    second: WendigoDeath_19
+  - first:
+      213: -7035841916897619630
+    second: WendigoDeath_20
+  - first:
+      213: -1059259291616326968
+    second: WendigoDeath_21
+  - first:
+      213: 944955543813626749
+    second: WendigoDeath_22
+  - first:
+      213: -1324756836496965737
+    second: WendigoDeath_23
+  - first:
+      213: -5499213917165573380
+    second: WendigoDeath_24
+  - first:
+      213: 8660045926388890713
+    second: WendigoDeath_25
+  - first:
+      213: 6400644783569004410
+    second: WendigoDeath_26
+  - first:
+      213: 4082382871676280065
+    second: WendigoDeath_27
+  - first:
+      213: -1156493101565197969
+    second: WendigoDeath_28
+  - first:
+      213: 8329494670756382448
+    second: WendigoDeath_29
+  - first:
+      213: 4579336915739679757
+    second: WendigoDeath_30
+  - first:
+      213: -2131888309466339222
+    second: WendigoDeath_31
+  - first:
+      213: -1871948191253587411
+    second: WendigoDeath_32
+  - first:
+      213: -6621805617316354908
+    second: WendigoDeath_33
+  - first:
+      213: -3064343337483503047
+    second: WendigoDeath_34
+  - first:
+      213: -6459643085833998583
+    second: WendigoDeath_35
+  - first:
+      213: 7045080366054164810
+    second: WendigoDeath_36
+  - first:
+      213: 2717476746980455766
+    second: WendigoDeath_37
+  - first:
+      213: 5087754079155362229
+    second: WendigoDeath_38
+  - first:
+      213: 7071424717209527693
+    second: WendigoDeath_39
+  - first:
+      213: -4527847150837784040
+    second: WendigoDeath_40
+  - first:
+      213: -6223032535108738805
+    second: WendigoDeath_41
+  - first:
+      213: -3024521651929553525
+    second: WendigoDeath_42
+  - first:
+      213: -6310657365349421354
+    second: WendigoDeath_43
+  - first:
+      213: 7327123605289167107
+    second: WendigoDeath_44
+  - first:
+      213: 931146799236216884
+    second: WendigoDeath_45
+  - first:
+      213: 8099052391544232289
+    second: WendigoDeath_46
+  - first:
+      213: 8717565107555959647
+    second: WendigoDeath_47
+  - first:
+      213: 7342346173886235050
+    second: WendigoDeath_00
+  - first:
+      213: -4355009316004554716
+    second: WendigoDeath_01
+  - first:
+      213: 8336552776726988968
+    second: WendigoDeath_02
+  - first:
+      213: -4472062631928495030
+    second: WendigoDeath_03
+  - first:
+      213: -741122828357810340
+    second: WendigoDeath_04
+  - first:
+      213: -3568405575168145236
+    second: WendigoDeath_05
+  - first:
+      213: 659254656129800048
+    second: WendigoDeath_06
+  - first:
+      213: -3976925243699614650
+    second: WendigoDeath_07
+  - first:
+      213: -2234535616307824161
+    second: WendigoDeath_08
+  - first:
+      213: 7248618542937686821
+    second: WendigoDeath_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WendigoDeath_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1007891f045e560800000000000000
+      internalID: 7342346173886235050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281806d916ef83c0800000000000000
+      internalID: -4355009316004554716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8cb1cd49261b370800000000000000
+      internalID: 8336552776726988968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a448a92faba00f1c0800000000000000
+      internalID: -4472062631928495030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ccc8d6b007b5f0800000000000000
+      internalID: -741122828357810340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8449d190a7a7ec0800000000000000
+      internalID: -3568405575168145236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077932bed94262900800000000000000
+      internalID: 659254656129800048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c200fbf8f1fc8c0800000000000000
+      internalID: -3976925243699614650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9730032b55df0e0800000000000000
+      internalID: -2234535616307824161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5234c14f824489460800000000000000
+      internalID: 7248618542937686821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449a35e6c4b5b3780800000000000000
+      internalID: -8702261471136732860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c8680bbd9992700800000000000000
+      internalID: 516112801149127711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f422c4716ed22a0800000000000000
+      internalID: -6760494477877293294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WendigoDeath_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107fc54d2b3754620800000000000000
+      internalID: 2757737558738532097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WendigoDeath_0: -4397525526322252171
+      WendigoDeath_00: 7342346173886235050
+      WendigoDeath_01: -4355009316004554716
+      WendigoDeath_02: 8336552776726988968
+      WendigoDeath_03: -4472062631928495030
+      WendigoDeath_04: -741122828357810340
+      WendigoDeath_05: -3568405575168145236
+      WendigoDeath_06: 659254656129800048
+      WendigoDeath_07: -3976925243699614650
+      WendigoDeath_08: -2234535616307824161
+      WendigoDeath_09: 7248618542937686821
+      WendigoDeath_1: 8423888435630441363
+      WendigoDeath_10: -8702261471136732860
+      WendigoDeath_11: 516112801149127711
+      WendigoDeath_12: -6760494477877293294
+      WendigoDeath_13: 2757737558738532097
+      WendigoDeath_14: -322933020334247638
+      WendigoDeath_15: -8471011496440290212
+      WendigoDeath_16: -6058861986950160556
+      WendigoDeath_17: -3965441951044958293
+      WendigoDeath_18: -502797146990257610
+      WendigoDeath_19: -4464445626087277606
+      WendigoDeath_2: -1540256397273533015
+      WendigoDeath_20: -7035841916897619630
+      WendigoDeath_21: -1059259291616326968
+      WendigoDeath_22: 944955543813626749
+      WendigoDeath_23: -1324756836496965737
+      WendigoDeath_24: -5499213917165573380
+      WendigoDeath_25: 8660045926388890713
+      WendigoDeath_26: 6400644783569004410
+      WendigoDeath_27: 4082382871676280065
+      WendigoDeath_28: -1156493101565197969
+      WendigoDeath_29: 8329494670756382448
+      WendigoDeath_3: -3031390443945533081
+      WendigoDeath_30: 4579336915739679757
+      WendigoDeath_31: -2131888309466339222
+      WendigoDeath_32: -1871948191253587411
+      WendigoDeath_33: -6621805617316354908
+      WendigoDeath_34: -3064343337483503047
+      WendigoDeath_35: -6459643085833998583
+      WendigoDeath_36: 7045080366054164810
+      WendigoDeath_37: 2717476746980455766
+      WendigoDeath_38: 5087754079155362229
+      WendigoDeath_39: 7071424717209527693
+      WendigoDeath_4: 403920475841033469
+      WendigoDeath_40: -4527847150837784040
+      WendigoDeath_41: -6223032535108738805
+      WendigoDeath_42: -3024521651929553525
+      WendigoDeath_43: -6310657365349421354
+      WendigoDeath_44: 7327123605289167107
+      WendigoDeath_45: 931146799236216884
+      WendigoDeath_46: 8099052391544232289
+      WendigoDeath_47: 8717565107555959647
+      WendigoDeath_5: 7783028741756314737
+      WendigoDeath_6: 5372315839306445748
+      WendigoDeath_7: -5091796901467832241
+      WendigoDeath_8: 143134564860227802
+      WendigoDeath_9: -4259381102200337113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

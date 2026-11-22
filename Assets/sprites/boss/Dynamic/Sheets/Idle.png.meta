@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: b08641ad292a8b94cad4197538bab442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4723107735738678597
+    second: Idle_0
+  - first:
+      213: -7385789195546760866
+    second: Idle_1
+  - first:
+      213: 3234629978573100161
+    second: Idle_2
+  - first:
+      213: 6373048116405451881
+    second: Idle_3
+  - first:
+      213: 7264182050183361747
+    second: Idle_4
+  - first:
+      213: -2834552850196481573
+    second: Idle_5
+  - first:
+      213: 3278449094680734212
+    second: Idle_6
+  - first:
+      213: 3384493420599841878
+    second: Idle_7
+  - first:
+      213: -2331352242086191015
+    second: Idle_8
+  - first:
+      213: -3914248031228685145
+    second: Idle_9
+  - first:
+      213: 7132915409514813599
+    second: Idle_10
+  - first:
+      213: -2055793278435719954
+    second: Idle_11
+  - first:
+      213: -1133706752296058015
+    second: Idle_12
+  - first:
+      213: -7873313509577613512
+    second: Idle_13
+  - first:
+      213: 719741960001666856
+    second: Idle_14
+  - first:
+      213: -2017107389029466533
+    second: Idle_15
+  - first:
+      213: -7851968663669621680
+    second: Idle_16
+  - first:
+      213: -216799431487514718
+    second: Idle_17
+  - first:
+      213: 3610992343889596186
+    second: Idle_18
+  - first:
+      213: 6538181465538999060
+    second: Idle_19
+  - first:
+      213: 6239617922696411994
+    second: Idle_20
+  - first:
+      213: 3604202040009161566
+    second: Idle_21
+  - first:
+      213: 7714808819881066536
+    second: Idle_22
+  - first:
+      213: 4839914909742284145
+    second: Idle_23
+  - first:
+      213: 5540120679197756244
+    second: Idle_24
+  - first:
+      213: 3244912566212535839
+    second: Idle_25
+  - first:
+      213: 6059227464253780763
+    second: Idle_26
+  - first:
+      213: 7058787313458793172
+    second: Idle_27
+  - first:
+      213: 3195378521950649799
+    second: Idle_28
+  - first:
+      213: -8381659573352531839
+    second: Idle_00
+  - first:
+      213: -2756498017462300822
+    second: Idle_01
+  - first:
+      213: -6714146255402601037
+    second: Idle_02
+  - first:
+      213: -4914351600739261391
+    second: Idle_03
+  - first:
+      213: 8045593241502845221
+    second: Idle_04
+  - first:
+      213: 457006308311335959
+    second: Idle_05
+  - first:
+      213: -1006470023562271296
+    second: Idle_06
+  - first:
+      213: 8072346608272230478
+    second: Idle_07
+  - first:
+      213: 1482098930563686504
+    second: Idle_08
+  - first:
+      213: 947337786871001495
+    second: Idle_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188f116a60d5eab80800000000000000
+      internalID: -8381659573352531839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f471d58a3feb9d0800000000000000
+      internalID: -2756498017462300822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b575b4cd8f82d2a0800000000000000
+      internalID: -6714146255402601037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1346098a147bccbb0800000000000000
+      internalID: -4914351600739261391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298f0ffc60b7af60800000000000000
+      internalID: 8045593241502845221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714820be0dc975600800000000000000
+      internalID: 457006308311335959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle_0: 4723107735738678597
+      Idle_00: -8381659573352531839
+      Idle_01: -2756498017462300822
+      Idle_02: -6714146255402601037
+      Idle_03: -4914351600739261391
+      Idle_04: 8045593241502845221
+      Idle_05: 457006308311335959
+      Idle_06: -1006470023562271296
+      Idle_07: 8072346608272230478
+      Idle_08: 1482098930563686504
+      Idle_09: 947337786871001495
+      Idle_1: -7385789195546760866
+      Idle_10: 7132915409514813599
+      Idle_11: -2055793278435719954
+      Idle_12: -1133706752296058015
+      Idle_13: -7873313509577613512
+      Idle_14: 719741960001666856
+      Idle_15: -2017107389029466533
+      Idle_16: -7851968663669621680
+      Idle_17: -216799431487514718
+      Idle_18: 3610992343889596186
+      Idle_19: 6538181465538999060
+      Idle_2: 3234629978573100161
+      Idle_20: 6239617922696411994
+      Idle_21: 3604202040009161566
+      Idle_22: 7714808819881066536
+      Idle_23: 4839914909742284145
+      Idle_24: 5540120679197756244
+      Idle_25: 3244912566212535839
+      Idle_26: 6059227464253780763
+      Idle_27: 7058787313458793172
+      Idle_28: 3195378521950649799
+      Idle_3: 6373048116405451881
+      Idle_4: 7264182050183361747
+      Idle_5: -2834552850196481573
+      Idle_6: 3278449094680734212
+      Idle_7: 3384493420599841878
+      Idle_8: -2331352242086191015
+      Idle_9: -3914248031228685145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

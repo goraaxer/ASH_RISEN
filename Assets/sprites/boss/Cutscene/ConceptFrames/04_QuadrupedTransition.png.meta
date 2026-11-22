@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: d9bdbc3cf0fd6084e8ff29c759eda17a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3254257143152804986
+    second: 04_QuadrupedTransition_0
+  - first:
+      213: 6669063012147397393
+    second: 04_QuadrupedTransition_1
+  - first:
+      213: 8671391966812919654
+    second: 04_QuadrupedTransition_2
+  - first:
+      213: 4053835107459423595
+    second: 04_QuadrupedTransition_3
+  - first:
+      213: -1352249517331750782
+    second: 04_QuadrupedTransition_4
+  - first:
+      213: 3816365182913151316
+    second: 04_QuadrupedTransition_5
+  - first:
+      213: 8430012603638021477
+    second: 04_QuadrupedTransition_6
+  - first:
+      213: 6772002024868119255
+    second: 04_QuadrupedTransition_7
+  - first:
+      213: -7558715424618788037
+    second: 04_QuadrupedTransition_8
+  - first:
+      213: 6019705147889586912
+    second: 04_QuadrupedTransition_9
+  - first:
+      213: -2557837718891525021
+    second: 04_QuadrupedTransition_10
+  - first:
+      213: -7922807888476889917
+    second: 04_QuadrupedTransition_11
+  - first:
+      213: 8149524355153631792
+    second: 04_QuadrupedTransition_12
+  - first:
+      213: 6101869492855596279
+    second: 04_QuadrupedTransition_13
+  - first:
+      213: -5683408386801629451
+    second: 04_QuadrupedTransition_14
+  - first:
+      213: 5112801477329833375
+    second: 04_QuadrupedTransition_15
+  - first:
+      213: -776976435502956275
+    second: 04_QuadrupedTransition_16
+  - first:
+      213: 1980853632145204341
+    second: 04_QuadrupedTransition_17
+  - first:
+      213: 9188369777216150035
+    second: 04_QuadrupedTransition_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1521
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b799ebe5e86d2d0800000000000000
+      internalID: -3254257143152804986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 975
+        width: 173
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130ebfa9754d8c50800000000000000
+      internalID: 6669063012147397393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 955
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6675f020d09f65870800000000000000
+      internalID: 8671391966812919654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 975
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d50265d8d124830800000000000000
+      internalID: 4053835107459423595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 974
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2806fbf7a38db3de0800000000000000
+      internalID: -1352249517331750782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 963
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45105b4f9e376f430800000000000000
+      internalID: 3816365182913151316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_6
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 959
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56df8e38ccb6df470800000000000000
+      internalID: 8430012603638021477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_7
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 935
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d28d7646fbfafd50800000000000000
+      internalID: 6772002024868119255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 947
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bc45d7e5c0a1790800000000000000
+      internalID: -7558715424618788037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_9
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 945
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e29c8030f94a8350800000000000000
+      internalID: 6019705147889586912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 943
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c006c852cb08cd0800000000000000
+      internalID: -2557837718891525021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 943
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc1ca7c3388c0290800000000000000
+      internalID: -7922807888476889917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 925
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a9355193de81170800000000000000
+      internalID: 8149524355153631792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_13
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 921
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4637389f13ea450800000000000000
+      internalID: 6101869492855596279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 875
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f686372f2a7021b0800000000000000
+      internalID: -5683408386801629451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_15
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 863
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4657dad154f640800000000000000
+      internalID: 5112801477329833375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_16
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 252
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014ffa6c00a735f0800000000000000
+      internalID: -776976435502956275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_17
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 219
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ae0822e76d7b10800000000000000
+      internalID: 1980853632145204341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04_QuadrupedTransition_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 113
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a57eb51a5a38f70800000000000000
+      internalID: 9188369777216150035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      04_QuadrupedTransition_0: -3254257143152804986
+      04_QuadrupedTransition_1: 6669063012147397393
+      04_QuadrupedTransition_10: -2557837718891525021
+      04_QuadrupedTransition_11: -7922807888476889917
+      04_QuadrupedTransition_12: 8149524355153631792
+      04_QuadrupedTransition_13: 6101869492855596279
+      04_QuadrupedTransition_14: -5683408386801629451
+      04_QuadrupedTransition_15: 5112801477329833375
+      04_QuadrupedTransition_16: -776976435502956275
+      04_QuadrupedTransition_17: 1980853632145204341
+      04_QuadrupedTransition_18: 9188369777216150035
+      04_QuadrupedTransition_2: 8671391966812919654
+      04_QuadrupedTransition_3: 4053835107459423595
+      04_QuadrupedTransition_4: -1352249517331750782
+      04_QuadrupedTransition_5: 3816365182913151316
+      04_QuadrupedTransition_6: 8430012603638021477
+      04_QuadrupedTransition_7: 6772002024868119255
+      04_QuadrupedTransition_8: -7558715424618788037
+      04_QuadrupedTransition_9: 6019705147889586912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

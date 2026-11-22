@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 5fb559f7b6bf3dd4a87118939b9eb395
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5127322267760252354
+    second: HuntersLeapStrike_0
+  - first:
+      213: -446444353654946428
+    second: HuntersLeapStrike_1
+  - first:
+      213: -5931127938803090018
+    second: HuntersLeapStrike_2
+  - first:
+      213: -6331789241161365821
+    second: HuntersLeapStrike_3
+  - first:
+      213: -7162733430201641167
+    second: HuntersLeapStrike_4
+  - first:
+      213: -5383129939206643128
+    second: HuntersLeapStrike_5
+  - first:
+      213: -1818757756828094938
+    second: HuntersLeapStrike_6
+  - first:
+      213: 5515956520120495501
+    second: HuntersLeapStrike_7
+  - first:
+      213: -4741232490723979042
+    second: HuntersLeapStrike_8
+  - first:
+      213: 8835860795692630841
+    second: HuntersLeapStrike_9
+  - first:
+      213: 5511970610180306868
+    second: HuntersLeapStrike_10
+  - first:
+      213: 5458484402035341373
+    second: HuntersLeapStrike_11
+  - first:
+      213: -770079187574633825
+    second: HuntersLeapStrike_12
+  - first:
+      213: -5419604713511862032
+    second: HuntersLeapStrike_13
+  - first:
+      213: 2851070590633844560
+    second: HuntersLeapStrike_14
+  - first:
+      213: -6178891751254743174
+    second: HuntersLeapStrike_15
+  - first:
+      213: -2232243283788050101
+    second: HuntersLeapStrike_16
+  - first:
+      213: -917539673269576026
+    second: HuntersLeapStrike_17
+  - first:
+      213: 39610266250103362
+    second: HuntersLeapStrike_18
+  - first:
+      213: 3741563018920078816
+    second: HuntersLeapStrike_19
+  - first:
+      213: -2607105893795211646
+    second: HuntersLeapStrike_20
+  - first:
+      213: 4471255525008128397
+    second: HuntersLeapStrike_21
+  - first:
+      213: -2206434048265072578
+    second: HuntersLeapStrike_00
+  - first:
+      213: -3038577733381544023
+    second: HuntersLeapStrike_01
+  - first:
+      213: -8011452531696241668
+    second: HuntersLeapStrike_02
+  - first:
+      213: 6658318642712025570
+    second: HuntersLeapStrike_03
+  - first:
+      213: -84794331495668343
+    second: HuntersLeapStrike_04
+  - first:
+      213: 6778729380025756733
+    second: HuntersLeapStrike_05
+  - first:
+      213: -6006175757142465769
+    second: HuntersLeapStrike_06
+  - first:
+      213: 6779509324489630770
+    second: HuntersLeapStrike_07
+  - first:
+      213: 2118317569634435190
+    second: HuntersLeapStrike_08
+  - first:
+      213: -2010138683421935664
+    second: HuntersLeapStrike_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HuntersLeapStrike_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3055dc5ceb2161e0800000000000000
+      internalID: -2206434048265072578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7a16b86adc4d5d0800000000000000
+      internalID: -3038577733381544023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf377517e5a91d090800000000000000
+      internalID: -8011452531696241668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9163c3789176c50800000000000000
+      internalID: 6658318642712025570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985eb383100c2def0800000000000000
+      internalID: -84794331495668343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c60f4b472e21e50800000000000000
+      internalID: 6778729380025756733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e5f098f6c5aca0800000000000000
+      internalID: -6006175757142465769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23427adafc7a51e50800000000000000
+      internalID: 6779509324489630770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67087833b96c56d10800000000000000
+      internalID: 2118317569634435190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73d51848d8a14e0800000000000000
+      internalID: -2010138683421935664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuntersLeapStrike_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b038f0147e7c40800000000000000
+      internalID: 5511970610180306868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HuntersLeapStrike_0: -5127322267760252354
+      HuntersLeapStrike_00: -2206434048265072578
+      HuntersLeapStrike_01: -3038577733381544023
+      HuntersLeapStrike_02: -8011452531696241668
+      HuntersLeapStrike_03: 6658318642712025570
+      HuntersLeapStrike_04: -84794331495668343
+      HuntersLeapStrike_05: 6778729380025756733
+      HuntersLeapStrike_06: -6006175757142465769
+      HuntersLeapStrike_07: 6779509324489630770
+      HuntersLeapStrike_08: 2118317569634435190
+      HuntersLeapStrike_09: -2010138683421935664
+      HuntersLeapStrike_1: -446444353654946428
+      HuntersLeapStrike_10: 5511970610180306868
+      HuntersLeapStrike_11: 5458484402035341373
+      HuntersLeapStrike_12: -770079187574633825
+      HuntersLeapStrike_13: -5419604713511862032
+      HuntersLeapStrike_14: 2851070590633844560
+      HuntersLeapStrike_15: -6178891751254743174
+      HuntersLeapStrike_16: -2232243283788050101
+      HuntersLeapStrike_17: -917539673269576026
+      HuntersLeapStrike_18: 39610266250103362
+      HuntersLeapStrike_19: 3741563018920078816
+      HuntersLeapStrike_2: -5931127938803090018
+      HuntersLeapStrike_20: -2607105893795211646
+      HuntersLeapStrike_21: 4471255525008128397
+      HuntersLeapStrike_3: -6331789241161365821
+      HuntersLeapStrike_4: -7162733430201641167
+      HuntersLeapStrike_5: -5383129939206643128
+      HuntersLeapStrike_6: -1818757756828094938
+      HuntersLeapStrike_7: 5515956520120495501
+      HuntersLeapStrike_8: -4741232490723979042
+      HuntersLeapStrike_9: 8835860795692630841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

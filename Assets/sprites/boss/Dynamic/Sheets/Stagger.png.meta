@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 21445e3a2e52c434fa2caaca82fc8f61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6220497478337741233
+    second: Stagger_0
+  - first:
+      213: -1906984851032814029
+    second: Stagger_1
+  - first:
+      213: -1799617059957895437
+    second: Stagger_2
+  - first:
+      213: 8350146007240374059
+    second: Stagger_3
+  - first:
+      213: 8493949070807928604
+    second: Stagger_4
+  - first:
+      213: 8271326967597848014
+    second: Stagger_5
+  - first:
+      213: 7609481395060118133
+    second: Stagger_6
+  - first:
+      213: -5133859847277779236
+    second: Stagger_7
+  - first:
+      213: -1502987779467167547
+    second: Stagger_8
+  - first:
+      213: -1207111571164874997
+    second: Stagger_9
+  - first:
+      213: 1435795070289953300
+    second: Stagger_10
+  - first:
+      213: -7285802431463441237
+    second: Stagger_11
+  - first:
+      213: 1794887483180741395
+    second: Stagger_12
+  - first:
+      213: -7468863241849028539
+    second: Stagger_13
+  - first:
+      213: 741512548127351012
+    second: Stagger_14
+  - first:
+      213: -6104299595063343772
+    second: Stagger_15
+  - first:
+      213: 5572929120806845587
+    second: Stagger_00
+  - first:
+      213: 2755491928356393203
+    second: Stagger_01
+  - first:
+      213: -3118826437112018848
+    second: Stagger_02
+  - first:
+      213: -6550901322917680411
+    second: Stagger_03
+  - first:
+      213: 6497390783723360516
+    second: Stagger_04
+  - first:
+      213: 974749402311720910
+    second: Stagger_05
+  - first:
+      213: 8557202077839763348
+    second: Stagger_06
+  - first:
+      213: 1695083827612913939
+    second: Stagger_07
+  - first:
+      213: 1036042722772527281
+    second: Stagger_08
+  - first:
+      213: -1143900407898245854
+    second: Stagger_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stagger_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3f1c3285075d40800000000000000
+      internalID: 5572929120806845587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stagger_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f093234f497d3620800000000000000
+      internalID: 2755491928356393203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stagger_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06847d331e3b7b4d0800000000000000
+      internalID: -3118826437112018848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stagger_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaead874f58615a0800000000000000
+      internalID: -6550901322917680411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stagger_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015abe3e7e5b2a50800000000000000
+      internalID: 6497390783723360516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stagger_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf70ddba61078d00800000000000000
+      internalID: 974749402311720910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stagger_0: 6220497478337741233
+      Stagger_00: 5572929120806845587
+      Stagger_01: 2755491928356393203
+      Stagger_02: -3118826437112018848
+      Stagger_03: -6550901322917680411
+      Stagger_04: 6497390783723360516
+      Stagger_05: 974749402311720910
+      Stagger_06: 8557202077839763348
+      Stagger_07: 1695083827612913939
+      Stagger_08: 1036042722772527281
+      Stagger_09: -1143900407898245854
+      Stagger_1: -1906984851032814029
+      Stagger_10: 1435795070289953300
+      Stagger_11: -7285802431463441237
+      Stagger_12: 1794887483180741395
+      Stagger_13: -7468863241849028539
+      Stagger_14: 741512548127351012
+      Stagger_15: -6104299595063343772
+      Stagger_2: -1799617059957895437
+      Stagger_3: 8350146007240374059
+      Stagger_4: 8493949070807928604
+      Stagger_5: 8271326967597848014
+      Stagger_6: 7609481395060118133
+      Stagger_7: -5133859847277779236
+      Stagger_8: -1502987779467167547
+      Stagger_9: -1207111571164874997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

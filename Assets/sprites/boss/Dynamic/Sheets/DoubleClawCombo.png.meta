@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 3c3c6d9ee205e2d40be808f5f062b8ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8200686029780734698
+    second: DoubleClawCombo_0
+  - first:
+      213: 1772740440291192653
+    second: DoubleClawCombo_1
+  - first:
+      213: 1257343749146566230
+    second: DoubleClawCombo_2
+  - first:
+      213: 5616962970244171783
+    second: DoubleClawCombo_3
+  - first:
+      213: -4345895778615006950
+    second: DoubleClawCombo_4
+  - first:
+      213: 9018491704795243507
+    second: DoubleClawCombo_5
+  - first:
+      213: -4484796871484450074
+    second: DoubleClawCombo_6
+  - first:
+      213: -5430795022671239581
+    second: DoubleClawCombo_7
+  - first:
+      213: -2421885324165064021
+    second: DoubleClawCombo_8
+  - first:
+      213: -2770317158731258409
+    second: DoubleClawCombo_9
+  - first:
+      213: -7059927794902421370
+    second: DoubleClawCombo_10
+  - first:
+      213: 8361683728259082261
+    second: DoubleClawCombo_11
+  - first:
+      213: -4092558924095440760
+    second: DoubleClawCombo_12
+  - first:
+      213: 2534444628176917089
+    second: DoubleClawCombo_13
+  - first:
+      213: -5619945488802835615
+    second: DoubleClawCombo_14
+  - first:
+      213: -7601822533370444625
+    second: DoubleClawCombo_15
+  - first:
+      213: -188417421664671052
+    second: DoubleClawCombo_16
+  - first:
+      213: 2341208564396006001
+    second: DoubleClawCombo_17
+  - first:
+      213: -3160675222554430224
+    second: DoubleClawCombo_18
+  - first:
+      213: 1454523411632299015
+    second: DoubleClawCombo_19
+  - first:
+      213: 6237590233568885017
+    second: DoubleClawCombo_20
+  - first:
+      213: -7212633594882412764
+    second: DoubleClawCombo_21
+  - first:
+      213: -2811550844803668734
+    second: DoubleClawCombo_22
+  - first:
+      213: -7968925427573875765
+    second: DoubleClawCombo_23
+  - first:
+      213: -4997605887926436806
+    second: DoubleClawCombo_24
+  - first:
+      213: 7052507442373205751
+    second: DoubleClawCombo_25
+  - first:
+      213: -3482651323683562382
+    second: DoubleClawCombo_00
+  - first:
+      213: 8809585501044396179
+    second: DoubleClawCombo_01
+  - first:
+      213: 8838168135133044852
+    second: DoubleClawCombo_02
+  - first:
+      213: 4447044483547754419
+    second: DoubleClawCombo_03
+  - first:
+      213: 6858735830294253221
+    second: DoubleClawCombo_04
+  - first:
+      213: -8389736449317410681
+    second: DoubleClawCombo_05
+  - first:
+      213: -1481581525650810598
+    second: DoubleClawCombo_06
+  - first:
+      213: -4241169143728011072
+    second: DoubleClawCombo_07
+  - first:
+      213: -7313017152791827249
+    second: DoubleClawCombo_08
+  - first:
+      213: 2975455648715864666
+    second: DoubleClawCombo_09
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoubleClawCombo_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c1c4fa2132bafc0800000000000000
+      internalID: -3482651323683562382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390de28865fe14a70800000000000000
+      internalID: 8809585501044396179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47028cf971b77aa70800000000000000
+      internalID: 8838168135133044852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf6936756317bd30800000000000000
+      internalID: 4447044483547754419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aecee406ef1f2f50800000000000000
+      internalID: 6858735830294253221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_05
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788e94b662ba19b80800000000000000
+      internalID: -8389736449317410681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_06
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a195dc1c37d507be0800000000000000
+      internalID: -1481581525650810598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_07
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c88ebb62275425c0800000000000000
+      internalID: -4241169143728011072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc218345a1f28a90800000000000000
+      internalID: -7313017152791827249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a73aad521fa4920800000000000000
+      internalID: 2975455648715864666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803fec5319160e90800000000000000
+      internalID: -7059927794902421370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518eb0b7c0baa0470800000000000000
+      internalID: 8361683728259082261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoubleClawCombo_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888bfe2875f4437c0800000000000000
+      internalID: -4092558924095440760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DoubleClawCombo_0: 8200686029780734698
+      DoubleClawCombo_00: -3482651323683562382
+      DoubleClawCombo_01: 8809585501044396179
+      DoubleClawCombo_02: 8838168135133044852
+      DoubleClawCombo_03: 4447044483547754419
+      DoubleClawCombo_04: 6858735830294253221
+      DoubleClawCombo_05: -8389736449317410681
+      DoubleClawCombo_06: -1481581525650810598
+      DoubleClawCombo_07: -4241169143728011072
+      DoubleClawCombo_08: -7313017152791827249
+      DoubleClawCombo_09: 2975455648715864666
+      DoubleClawCombo_1: 1772740440291192653
+      DoubleClawCombo_10: -7059927794902421370
+      DoubleClawCombo_11: 8361683728259082261
+      DoubleClawCombo_12: -4092558924095440760
+      DoubleClawCombo_13: 2534444628176917089
+      DoubleClawCombo_14: -5619945488802835615
+      DoubleClawCombo_15: -7601822533370444625
+      DoubleClawCombo_16: -188417421664671052
+      DoubleClawCombo_17: 2341208564396006001
+      DoubleClawCombo_18: -3160675222554430224
+      DoubleClawCombo_19: 1454523411632299015
+      DoubleClawCombo_2: 1257343749146566230
+      DoubleClawCombo_20: 6237590233568885017
+      DoubleClawCombo_21: -7212633594882412764
+      DoubleClawCombo_22: -2811550844803668734
+      DoubleClawCombo_23: -7968925427573875765
+      DoubleClawCombo_24: -4997605887926436806
+      DoubleClawCombo_25: 7052507442373205751
+      DoubleClawCombo_3: 5616962970244171783
+      DoubleClawCombo_4: -4345895778615006950
+      DoubleClawCombo_5: 9018491704795243507
+      DoubleClawCombo_6: -4484796871484450074
+      DoubleClawCombo_7: -5430795022671239581
+      DoubleClawCombo_8: -2421885324165064021
+      DoubleClawCombo_9: -2770317158731258409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
